@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+{% assign tagsCategories = page.tags | concat:page.categories | sort %}
+<p>{{ page.date | date_to_long_string }} – Written by {{ page.author }}
+    {% unless tagsCategories == empty %}
+    – in {{tagsCategories | array_to_sentence_string}}
+    {% endunless %}
+</p>
+<hr>
+{{ content }}

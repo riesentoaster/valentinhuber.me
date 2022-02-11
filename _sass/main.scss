@@ -1,0 +1,82 @@
+$htmlBackgroundColor: #010411;
+$backgroundColor: #010c1e;
+$bodyColor: #d5d9e0;
+$bodyFont: Avenir, Helvetica, Arial, sans-serif;
+$accentColor1: #4a6d88;
+$accentColor2: #c6cdd7;
+
+html {
+  background-color: $htmlBackgroundColor;
+  height: 100%;
+}
+
+body {
+  background: $backgroundColor;
+  color: $bodyColor;
+  font-family: $bodyFont;
+}
+
+body {
+  background-color: $backgroundColor;
+  color: $bodyColor;
+  width: unquote("max(800px, 80%)");
+  margin: 0 auto;
+  min-height: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@media only screen and (max-width: 480px) {
+  body {
+    width: 100%;
+  }
+}
+
+nav {
+  text-align: center;
+  padding: 30px;
+}
+
+nav a {
+  font-weight: bold;
+  color: $accentColor1;
+}
+
+nav .active {
+  color: $accentColor2;
+}
+
+main {
+  padding: 30px;
+}
+
+main a {
+  color: inherit;
+}
+
+input {
+  background-color: $accentColor2;
+  outline: none;
+}
+
+button {
+  border: 1px solid $accentColor2;
+  background-color: inherit;
+  color: $accentColor2;
+}
+
+button:disabled {
+  border: 1px solid $accentColor1;
+  color: $accentColor1;
+}
+
+ul {
+  margin-bottom: 4em;
+}
+
+a.exc {
+  text-decoration: none;
+}
+a.exc p:last-child {
+  text-decoration: underline;
+}

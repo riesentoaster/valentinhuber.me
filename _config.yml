@@ -1,0 +1,14 @@
+url: "https://blog.valentinhuber.me" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/"
+title: "blog.valentinhuber.me"
+defaults:
+  - scope:
+      path: "*"
+    values:
+      layout: "default"
+      language: "english"
+  - scope:
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Valentin Huber"

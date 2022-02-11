@@ -1,0 +1,18 @@
+---
+title: Zufällige Frage
+language: deutsch
+---
+
+<p id="res" style="border: 2px solid white;padding: 0.5em;text-align: center;font-size: 1.5em;"></p>
+<div id="input">
+{% for cat in site.data.fragen %}
+<label><input type="radio" id="{{cat.title}}" name="cat" value="{{cat.title}}" {% if forloop.first %}checked{% endif %}>{{cat.title}}</label><br><br>
+{% endfor %}
+</div>
+
+
+<script>
+const data = ({{ site.data.fragen | jsonify }}).map(e => ({[e.title]: e.entries})).reduce((acc, cur) => Object.assign(acc, cur), {})
+document.querySelector("#input").addEventListener("click", (e) => { if (e.target.checked) document.querySelector("#res").innerHTML=data[e.target.id][Math.floor(Math.random() * data[e.target.id].length)] })
+document.querySelector("input").click()
+</script>
