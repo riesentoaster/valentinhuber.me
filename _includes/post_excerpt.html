@@ -1,7 +1,14 @@
 <hr>
+{% assign tagsCategories = post.tags | concat: post.categories | sort %}
+
 <a href="{{post.url}}"class="exc">
     <article >
         <h3>{{post.title}}</h3>
+        <p><i>{{ post.date | date_to_long_string }} – Written by {{ post.author }}
+            {% unless tagsCategories == empty %}
+            – in {{tagsCategories | array_to_sentence_string}}
+            {% endunless %}
+        </i></p>        
         <p>{{post.excerpt}}</p>
         <p>Read more…</p>
     </article>

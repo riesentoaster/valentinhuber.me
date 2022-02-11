@@ -8,7 +8,8 @@ defaults:
       layout: "default"
       language: "english"
   - scope:
-      type: "posts"
+      path: "*/*"
+      type: posts
     values:
       layout: "post"
       author: "Valentin Huber"
