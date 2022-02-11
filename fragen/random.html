@@ -6,7 +6,7 @@ language: deutsch
 <p id="res" style="border: 2px solid white;padding: 0.5em;text-align: center;font-size: 1.5em;"></p>
 <div id="input">
 {% for cat in site.data.fragen %}
-<label><input type="radio" id="{{cat.title}}" name="cat" value="{{cat.title}}" {% if forloop.first %}checked{% endif %}>{{cat.title}}</label><br><br>
+<label style="display: block;padding: 0.3em;"><input type="radio" id="{{cat.title}}" name="cat" value="{{cat.title}}" {% if forloop.first %}checked{% endif %}>{{cat.title}}</label>
 {% endfor %}
 </div>
 
