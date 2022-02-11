@@ -1,6 +1,6 @@
 <nav>
     |
-    {% assign home = site.pages | find: "url", "/" %}
+    {% assign home = site.pages | where: "url", "/" | first %}
     {% assign pages = site.html_pages | where_exp:"item","item.url!='/'" | sort: "title" | unshift: home %}
     {% for link in pages %}
       {% assign steps = link.path | split: "/" | join: " " | number_of_words %}
