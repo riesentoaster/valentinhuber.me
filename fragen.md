@@ -6,8 +6,9 @@ language: deutsch
 - Eine [zufällige Frage](/fragen/random.html) generieren
 
 {% for cat in site.data.fragen %}
+
 ## {{cat.title}}
 {% for frage in cat.entries %}
-- {{ frage }}
-{% endfor %}
-{% endfor %}
+- {{ frage -}}
+{% endfor -%}
+{% endfor -%}

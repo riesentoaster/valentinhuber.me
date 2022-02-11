@@ -12,7 +12,7 @@ language: deutsch
 
 
 <script>
-const data = ({{ site.data.fragen | jsonify }}).map(e => ({[e.title]: e.entries})).reduce((acc, cur) => Object.assign(acc, cur), {})
+const data = ({{ site.data.fragen | jsonify -}}).map(e => ({[e.title]: e.entries})).reduce((acc, cur) => Object.assign(acc, cur), {})
 document.querySelector("#input").addEventListener("click", (e) => { if (e.target.checked) document.querySelector("#res").innerHTML=data[e.target.id][Math.floor(Math.random() * data[e.target.id].length)] })
 document.querySelector("input").click()
 </script>

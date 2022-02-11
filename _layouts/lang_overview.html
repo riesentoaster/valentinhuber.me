@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-{{content}}
-{% assign posts = site.posts | where: "language", page.ofLanguage %}
-{% for post in posts %}
-{% include post_excerpt.html post=post %}
-{% endfor %}
+{{ content -}}
+{% assign posts = site.posts | where: "language", page.ofLanguage -%}
+{% for post in posts -%}
+{% include post_excerpt.html post=post -%}
+{% endfor -%}
