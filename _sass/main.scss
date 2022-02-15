@@ -59,7 +59,9 @@ input {
   outline: none;
 }
 
-button {
+button,
+input[type="submit"],
+input[type="reset"] {
   border: 1px solid $accentColor2;
   background-color: inherit;
   color: $accentColor2;
