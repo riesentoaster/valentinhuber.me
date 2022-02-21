@@ -3,16 +3,24 @@ title: Zufällige Frage
 language: deutsch
 ---
 
-<p id="res" style="border: 2px solid white;padding: 0.5em;text-align: center;font-size: 1.5em;"></p>
-<div id="input">
-{% for cat in site.data.fragen %}
-<label style="display: block;padding: 0.3em;"><input type="radio" id="{{cat.title}}" name="cat" value="{{cat.title}}" {% if forloop.first %}checked{% endif %}>{{cat.title}}</label>
-{% endfor %}
-</div>
-
+{% for cat in site.data.fragen -%}
+<h2>{{ cat.title }}</h2>
+<p id="{{cat.title}}"></p>
+{% endfor -%}
 
 <script>
-const data = ({{ site.data.fragen | jsonify -}}).map(e => ({[e.title]: e.entries})).reduce((acc, cur) => Object.assign(acc, cur), {})
-document.querySelector("#input").addEventListener("click", (e) => { if (e.target.checked) document.querySelector("#res").innerHTML=data[e.target.id][Math.floor(Math.random() * data[e.target.id].length)] })
-document.querySelector("input").click()
+  const data = ({{ site.data.fragen | jsonify -}}).map(e => ({[e.title]: e.entries.sort((a,b) => Math.random() > 0.5)})).reduce((acc, cur) => Object.assign(acc, cur), {})
+  const rotate = (arr) => { arr.push(arr.shift()); return arr; }
+  for (const cat of document.querySelectorAll("main p")) {
+    cat.innerHTML = rotate(data[cat.id])[0]
+    cat.addEventListener("click", e => e.target.innerHTML = rotate(data[e.target.id])[0])
+  }
 </script>
+
+<style>
+  main p {
+    border: 2px solid white;
+    padding: 0.5em;
+    font-size: 1.5em;
+  }
+</style>
