@@ -8,6 +8,7 @@ language: deutsch
 {% for cat in site.data.fragen %}
 
 ## {{cat.title}}
+> [Zufällige Frage aus {{ cat.title }}](/fragen/random.html?category={{cat.title}})
 {% for frage in cat.entries %}
 - {{ frage -}}
 {% endfor -%}
