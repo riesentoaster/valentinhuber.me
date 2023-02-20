@@ -6,7 +6,12 @@ title: "about"
 
 Hi! I'm Valentin Huber. I like computers, guitars, bikes, music and podcasts. You'll find me writing about these and any other topic I might take an interest in.
 
-I'm currently studying computer science at [ZHAW](https://zhaw.ch). I graduated Schaffhausen's High School and completed my civil service in a school, a soup kitchen, an industrial kitchen and an IT departement. I completed [Youth2Engineer](https://www.zhaw.ch/en/engineering/study/pre-college/) at ZHAW and an internship at [Syntegon](https://syntegon.com). I got to study abroad for a semester at [North Carolina State University](https://ncsu.edu) in Raleigh, NC, USA.
+- I'm currently studying computer science at [ZHAW](https://zhaw.ch).
+- I got to study abroad for a semester at [North Carolina State University](https://ncsu.edu) in Raleigh, NC, USA.
+- I did an internship at [Syntegon](https://syntegon.com).
+- I attended [Youth2Engineer](https://www.zhaw.ch/en/engineering/study/pre-college/) at ZHAW 
+- I completed my civil service in a school, a soup kitchen, an industrial kitchen and an IT departement.
+- I graduated Schaffhausen's High School.
 
 ## GitHub
 Find my projects on my [GitHub profile](https://github.com/riesentoaster).
