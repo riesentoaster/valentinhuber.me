@@ -6,6 +6,8 @@ title: "about"
 
 Hi! I'm Valentin Huber. I like computers, guitars, bikes, music and podcasts. You'll find me writing about these and any other topic I might take an interest in.
 
+## Short CV
+
 - I'm currently studying computer science at [ZHAW](https://zhaw.ch).
 - I got to study abroad for a semester at [North Carolina State University](https://ncsu.edu) in Raleigh, NC, USA.
 - I did an internship at [Syntegon](https://syntegon.com).
