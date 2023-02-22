@@ -4,7 +4,7 @@ title: "about"
 
 ![](./assets/valentin.jpeg){:style="height:max(20vw, 40vh);"}
 
-Hi! I'm Valentin Huber. I like computers, guitars, bikes, music and podcasts. You'll find me writing about these and any other topic I might take an interest in.
+Hi! I'm Valentin Huber. I like computers, guitars, bikes, music, and podcasts. You'll find me writing about these and any other topic I might take an interest in.
 
 ## Short CV
 
