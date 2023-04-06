@@ -1,6 +1,6 @@
 ---
 title: bsides2022 – Hinokuni
-tags: SQL, injection
+tags: web sql injection
 ---
 
 ## Challenge

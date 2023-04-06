@@ -1,6 +1,6 @@
 ---
 title: bsides2022 – Confused
-tags: steg, audio, mp3
+tags: forensics steg audio mp3
 ---
 
 ## Challenge

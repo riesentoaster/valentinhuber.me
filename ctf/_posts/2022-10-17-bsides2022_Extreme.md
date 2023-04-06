@@ -1,6 +1,6 @@
 ---
 title: bsides2022 – Extreme
-tags: xxe
+tags: web xxe injection
 ---
 
 ## Challenge
