@@ -2,8 +2,8 @@
 layout: default
 ---
 {% assign tagsCategories = page.tags | concat: page.categories | sort %}
-<p><i>{{ page.date | date_to_long_string }} – Written by {{ page.author -}}
-    {% unless tagsCategories == empty %} – in {{ tagsCategories | array_to_sentence_string }}{% endunless -%}
-</i></p>
+<p><i>{{ page.date | date_to_long_string }} – Written by {{ page.author.name -}}
+        {% unless tagsCategories == empty %} – in {{ tagsCategories | array_to_sentence_string }}{% endunless -%}
+    </i></p>
 <hr>
 {{ content -}}
