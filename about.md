@@ -9,6 +9,7 @@ Hi! I'm Valentin Huber. I like computers, guitars, bikes, music and podcasts. Yo
 ## Short CV
 
 - I'm currently studying computer science at [ZHAW](https://zhaw.ch).
+- I wrote my bachelor's thesis about [Ghidrion](/ghidrion), a symbolic execution plugin for Ghidra, in collaboration with [Cyber-Defense Campus](https://cydcampus.ch)
 - I got to study abroad for a semester at [North Carolina State University](https://ncsu.edu) in Raleigh, NC, USA.
 - I did an internship at [Syntegon](https://syntegon.com).
 - I attended [Youth2Engineer](https://www.zhaw.ch/en/engineering/study/pre-college/) at ZHAW 
