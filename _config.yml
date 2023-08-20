@@ -1,6 +1,9 @@
-url: "https://blog.valentinhuber.me" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://valentinhuber.me" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/"
-title: "blog.valentinhuber.me"
+title: "valentinhuber.me"
+author: Valentin Huber
+plugins:
+  - jekyll-feed
 defaults:
   - scope:
       path: "*"
@@ -12,4 +15,6 @@ defaults:
       type: posts
     values:
       layout: "post"
-      author: "Valentin Huber"
+      author:
+        name: "Valentin Huber"
+        picture: "/assets/valentin.jpeg"

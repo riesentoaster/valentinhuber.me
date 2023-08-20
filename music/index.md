@@ -1,4 +1,0 @@
----
-layout: overview
-title: "posts in music"
----
