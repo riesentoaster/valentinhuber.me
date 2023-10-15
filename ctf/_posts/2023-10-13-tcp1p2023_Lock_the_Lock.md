@@ -1,6 +1,6 @@
 ---
 title: TCP1P 2023 – Lock the Lock
-tags: rev python tree
+tags: rev python pyc decompile tree
 ---
 
 ## Challenge
