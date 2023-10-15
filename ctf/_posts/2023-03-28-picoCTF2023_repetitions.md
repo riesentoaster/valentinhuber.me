@@ -22,7 +22,7 @@ aGkKYlRrelZERldUMkpzUWxWTlJYTkxDZz09Cg==
 The `==` at the end of the data indicates base64, the title indicates a repeated application. So I wrote a short python script:
 
 {%raw%}
-```python3
+```python
 from base64 import b64decode
 data = "VmpGU1EyRXlUWGxTYmxKVVYwZFNWbGxyV21GV1JteDBUbFpPYWxKdFVsaFpWVlUxWVZaS1ZWWnVhRmRXZWtab1dWWmtSMk5yTlZWWApiVVpUVm10d1VWZFdVa2RpYlZaWFZtNVdVZ3BpU0VKeldWUkNkMlZXVlhoWGJYQk9VbFJXU0ZkcVRuTldaM0JZVWpGS2VWWkdaSGRXCk1sWnpWV3hhVm1KRk5XOVVWVkpEVGxaYVdFMVhSbGhhTTBKWVZXeG9RMlZXV2tkWGJYUlVDbUY2VmtoWmEyaEhWMGRHZEdWRlZsaGkKYlRrelZERldUMkpzUWxWTlJYTkxDZz09Cg=="
 while "picoCTF" not in data:

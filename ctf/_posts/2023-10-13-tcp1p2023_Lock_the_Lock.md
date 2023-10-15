@@ -19,7 +19,7 @@ At this point I tried to get this to run by deleting all the GUI instructions an
 
 #### Flag and decryption
 
-```python3
+```python
 FLAG = [ 90, 19, 95, 37, 58, 144, 131, 222, 253, 162, 107, 96, 98, 128, ...
 
 # ---
@@ -35,7 +35,7 @@ def decrypt(key, plain):
 
 #### Random
 
-```python3
+```python
 import random
 turn = 0
 random.seed(199)
@@ -59,7 +59,7 @@ random.shuffle(target)
 
 #### Trees
 
-```python3
+```python
 class Node:
     __qualname__ = 'main.<locals>.Node'
     
@@ -72,7 +72,7 @@ class Node:
 
 - Binary trees!
 
-```python3
+```python
 def insert(self = None, root = None, key = None):
     if not root:
         return Node(key)
@@ -100,7 +100,7 @@ def insert(self = None, root = None, key = None):
 
 #### Submit
 
-```python3
+```python
 def submit(root = None):
     global turn, turn
     
@@ -131,7 +131,7 @@ def submit(root = None):
 
 #### Check
 
-```python3
+```python
 def check(self, state, root, n, x):
     state = root
     for i in n:
@@ -165,7 +165,7 @@ I pulled a working implementation of an AVL tree in python from the internet. It
 - The array is then shuffled once more.
 - Finally, for each value in the array, we have to calculate the path of the node with the corresponding value in the tree.
 
-```python3
+```python
 def getPath(self, value, root):
     if not root or value == root.data:
         return ''
@@ -178,7 +178,7 @@ def getPath(self, value, root):
 - `getPath` takes a tree and a value and recursively calculates the path through the tree for the specified value in the form necessary for `check`.
 - We also need the same setup as the original has:
 
-```python3
+```python
 # Setting up the random array
 init = list(range(1, 1001))
 random.seed(199)
@@ -200,14 +200,14 @@ random.shuffle(target)
 
 - We then calculate the paths for all the inputs:
 
-```python3
+```python
 # Calculating paths
 input = [list(tr.getPath(e, root)) for e in target]
 ```
 
 - And finally validate our input and decrypt the flag:
 
-```python3
+```python
 # Calling check repeatedly
 turn = 0
 validatedKey = []

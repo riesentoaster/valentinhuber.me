@@ -19,7 +19,7 @@ steghide extract -sf HideToSee.jpg -p "" # no password since we don't have anyth
 Which returned the following: `krxlXGU{zgyzhs_xizxp_xz00558y}`. This seemed like an encrypted flag. I couldn't be bothered to manually decrypt it using the system in the picture, so I wrote a short python script to do it:
 
 {%raw%}
-```python3
+```python
 import string
 input = "krxlXGU{zgyzhs_xizxp_vx4zyz61}"
 
