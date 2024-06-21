@@ -32,4 +32,9 @@ This may be the funniest and most entertaining [album](https://en.wikipedia.org/
 ## Honorable Mentions
 These didn't quite make the list for different reasons:
 - Lawrence — The Live Album: It feels too much like a desk recording, the production isn't quite up to where the other albums on this list are and there's too much crowd interaction to flow as an album in my opinion.
+- Pretty much the same applies to Cardinal Black's Live at the Memo. It's probably been a great live show (well, I've seen that same show, and it *is* great), but the live recording isn't quite up there.
 - John Mayer played two live shows in CMT's Crossroads series with Keith Urban and Brad Paisley respectively. I can't find them released as actual albums, but there are videos available and worth a watch.
+- There are a few videos out there from Jamie Cullum Live From Jazz a Vienne. From full-on big band jazz to straight-up pop songs and everything in between, I keep finding myself coming back to them. But I don't think he released them as an actual album.
+
+## Updates
+- 2024-06-21: Adding Cardinal Black — Live at the Memo and Jamie Cullum — Live From Jazz a Vienne 
