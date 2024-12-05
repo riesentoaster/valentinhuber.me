@@ -9,12 +9,13 @@ Hi! I'm Valentin Huber. I like computers, guitars, bikes, climbing, music and po
 ## Short CV
 
 - I'm currently pursuing my master's degree in computer science at [ZHAW](https://zhaw.ch), focusing on cybersecurity.
-- I wrote my bachelor's thesis about [Ghidrion]({% post_url cybersecurity/2023-07-07-Ghidrion %}), a symbolic execution plugin for Ghidra, in collaboration with ZHAW and [Cyber-Defense Campus](https://cydcampus.ch).
-- I got to study abroad for a semester at [North Carolina State University](https://ncsu.edu) in Raleigh, NC, USA.
+  - I have been accepted as a CYD Fellow to write my master's thesis at [Cyber-Defense Campus](https://cydcampus.ch) about fuzzing the TCP/IP stack of the real-time operating system Zephyr.
+- I received my bachelor's degree in computer science summa cum lauda at [ZHAW](https://zhaw.ch).
+  - I wrote my bachelor's thesis about [Ghidrion]({% post_url cybersecurity/2023-07-07-Ghidrion %}), a symbolic execution plugin for Ghidra, in collaboration with ZHAW and [Cyber-Defense Campus](https://cydcampus.ch).
+  - I got to study abroad for a semester at [North Carolina State University](https://ncsu.edu) in Raleigh, NC, USA.
 - I did an internship at [Syntegon](https://syntegon.com).
 - I attended [Youth2Engineer](https://www.zhaw.ch/en/engineering/study/pre-college/) at ZHAW.
-- I completed my civil service in a school, a soup kitchen, an industrial kitchen and an IT department.
-- I graduated [Schaffhausen's High School](https://kanti.sh.ch).
+- I graduated [High School Schaffhausen](https://kanti.sh.ch).
 
 [Contact me](/contact) for a formal CV.
 
@@ -25,7 +26,7 @@ Hi! I'm Valentin Huber. I like computers, guitars, bikes, climbing, music and po
 - [*Ghidrion: A Ghidra Plugin to Support Symbolic Execution*]({% post_url cybersecurity/2023-07-07-Ghidrion %}), Bachelor Thesis in cooperation with [Cyber Defence Campus](https://cydcampus.ch), 09.06.2023
 
 ## GitHub
-Find my projects on my [GitHub profile](https://github.com/riesentoaster).
+Find my coding projects on my [GitHub profile](https://github.com/riesentoaster).
 
 ## Instagram
 Find my pictures on my [Instagram profile](https://instagram.com/valentinchuber).
