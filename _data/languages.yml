@@ -1,6 +1,0 @@
-- name: english
-  htmlLangTag: en-GB
-  overview: languages/english.html
-- name: deutsch
-  htmlLangTag: de-CH
-  overview: languages/deutsch.html
