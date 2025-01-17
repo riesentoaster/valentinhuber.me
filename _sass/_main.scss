@@ -14,11 +14,6 @@ body {
   background: $backgroundColor;
   color: $bodyColor;
   font-family: $bodyFont;
-}
-
-body {
-  background-color: $backgroundColor;
-  color: $bodyColor;
   width: unquote("max(800px, 80%)");
   margin: 0 auto;
   min-height: 100%;
@@ -33,17 +28,40 @@ body {
 }
 
 nav {
-  text-align: center;
-  padding: 30px;
+  padding: 20px 0;
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+  }
+
+  a {
+    &:first-child {
+      border-left: 1px solid $accentColor2;
+    }
+
+    border-right: 1px solid $accentColor2;
+    color: $accentColor1;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.1em;
+    padding: 2px 20px;
+  }
+
+  .active li {
+    color: $accentColor2;
+    border-bottom: 3px solid $accentColor2;
+  }
 }
 
-nav a {
-  font-weight: bold;
-  color: $accentColor1;
-}
-
-nav .active {
-  color: $accentColor2;
+@media only screen and (max-width: 480px) {
+  nav ul {
+    flex-wrap: wrap;
+    gap: 10px;
+  }
 }
 
 main {
@@ -57,19 +75,6 @@ main a {
 input {
   background-color: $accentColor2;
   outline: none;
-}
-
-button,
-input[type="submit"],
-input[type="reset"] {
-  border: 1px solid $accentColor2;
-  background-color: inherit;
-  color: $accentColor2;
-}
-
-button:disabled {
-  border: 1px solid $accentColor1;
-  color: $accentColor1;
 }
 
 a.exc {
@@ -90,6 +95,10 @@ th {
   border: solid $accentColor2 1px;
   border-collapse: collapse;
   padding: 0.3em;
+}
+
+hr {
+  margin: 2.5rem 1rem;
 }
 
 table {

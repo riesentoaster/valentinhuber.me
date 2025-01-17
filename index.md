@@ -3,19 +3,19 @@ title: "home"
 header: "Hello, World!"
 ---
 
-![](./assets/valentin.jpg){:style="height:max(20vw, 30vh)"}
+![](./assets/valentin.jpg){:style="height:max(20vw, 30vh); display: block; margin: 2rem auto;"}
 
-<p>
+<p style="text-align: center; background-color: #d5d9e0; color: black; padding: 1rem; margin: 50px 1rem; border-radius: 10px; font-size: 1.1em">
   Hi! 👋 I'm Valentin Huber. I like computers, cybersecurity, guitars, music and podcasts. You'll find me writing about these and any other topic I might take an interest in.
 </p>
 
 ---
 
-## Short CV
+## What I'm Up To
 
 - I'm currently pursuing my master's degree in computer science at [ZHAW](https://zhaw.ch), focusing on cybersecurity.
   - I have been accepted as a CYD Fellow to write my master's thesis at [Cyber-Defense Campus](https://cydcampus.ch) about fuzzing the TCP/IP stack of the real-time operating system Zephyr.
-- I received my bachelor's degree in computer science summa cum lauda at [ZHAW](https://zhaw.ch).
+- I received my bachelor's degree in computer science summa cum laude at [ZHAW](https://zhaw.ch).
   - I wrote my bachelor's thesis about [Ghidrion]({% post_url cybersecurity/2023-07-07-Ghidrion %}), a symbolic execution plugin for Ghidra, in collaboration with ZHAW and [Cyber-Defense Campus](https://cydcampus.ch).
   - I got to study abroad for a semester at [North Carolina State University](https://ncsu.edu) in Raleigh, NC, USA.
 - I did an internship at [Syntegon](https://syntegon.com).
@@ -34,13 +34,10 @@ header: "Hello, World!"
 
 ---
 
-## GitHub
-Find my coding projects on my [GitHub profile](https://github.com/riesentoaster).
-
----
-
 ## Contact
-- Shoot me an [email](mailto:blog@valentinhuber.me)
-- Text me on [Threema](https://threema.id/2AJEWTX5); I also have Signal, contact me for my phone number
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/valentinchuber)
-- Find my pictures on my [Instagram profile](https://instagram.com/valentinchuber)
+
+- 📧 [Email](mailto:blog@valentinhuber.me)
+- 💬 [Threema](https://threema.id/2AJEWTX5)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/valentinchuber)
+- 📸 [Instagram](https://instagram.com/valentinchuber)
+- 💻 [GitHub](https://github.com/riesentoaster)
