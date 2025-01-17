@@ -1,16 +1,15 @@
 <nav>
   {% assign home = site.pages | where: "url", "/" | first -%}
-  {% assign pages = site.html_pages | where_exp:"item","item.url!='/'" | where_exp: "i", "i.hidden != true" | sort:
+  {% assign pages = site.html_pages | where_exp:"item", "item.url!='/'" | where_exp: "i", "i.hidden != true" | sort:
   "title" | unshift: home -%}
   <ul>
     {% for link in pages -%}
     {% assign steps = link.path | split: "/" | join: " " | number_of_words -%}
-    {% if steps == 1 -%}
-
-    <a {% if page.url==link.url -%}class="active" {% endif -%} href="{{ link.url }}">
+    {% if steps == 1 or (steps == 2 and link.path | split: "/" | last contains "index") -%}
+    <a {% if page.url contains link.url and link.url !="/" or page.url=="/" and link.url=="/" -%}class="active" {% endif
+      -%} href="{{ link.url }}">
       <li>{{ link.title -}}</li>
     </a>
-
     {% endif -%}
     {% endfor -%}
   </ul>

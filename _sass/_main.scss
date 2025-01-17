@@ -29,6 +29,7 @@ body {
 
 nav {
   padding: 20px 0;
+  border-bottom: 1px solid $accentColor1;
 
   ul {
     list-style: none;
@@ -39,11 +40,6 @@ nav {
   }
 
   a {
-    &:first-child {
-      border-left: 1px solid $accentColor2;
-    }
-
-    border-right: 1px solid $accentColor2;
     color: $accentColor1;
     text-decoration: none;
     font-weight: bold;
@@ -53,7 +49,6 @@ nav {
 
   .active li {
     color: $accentColor2;
-    border-bottom: 3px solid $accentColor2;
   }
 }
 
@@ -98,7 +93,7 @@ th {
 }
 
 hr {
-  margin: 2.5rem 1rem;
+  margin: 2.5rem 0;
 }
 
 table {

@@ -21,4 +21,4 @@ This most definitely isn't the most efficient or best solution. But it works for
 The custom AdBlock block list is taken from a [GitHub repository](https://github.com/hadig/Focus-for-Youtube) of a [Mac App Store App](https://apps.apple.com/us/app/focus-for-youtube/id1514703160?mt=12). I haven't tested this, but if you want to try it, feel free.
 
 ## Related
-I've created a custom block list to deal with similar issues in Instagram and [written about it]({% post_url random/2023-12-12-Undistractionate Instagram %}).
+I've created a custom block list to deal with similar issues in Instagram and [written about it]({% post_url blog/random/2023-12-12-Undistractionate Instagram %}).

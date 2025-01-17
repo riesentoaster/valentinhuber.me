@@ -11,4 +11,4 @@ The downside of using this system is that you will not be able to use the offici
 
 To use this, follow the instructions in the [GitHub repository](https://github.com/riesentoaster/instagram-adblock/).
 
-I've previously written about [a similar approach to dealing with YouTube]({% post_url random/2022-02-25-Undistractionate YouTube %}).
+I've previously written about [a similar approach to dealing with YouTube]({% post_url blog/random/2022-02-25-Undistractionate YouTube %}).

@@ -2,11 +2,32 @@
 layout: default
 ---
 {{ content -}}
+
+{% assign index_files = "" | split: "," %}
+{% for file in site.pages %}
+{% if file.path contains "index.md" %}
+{% assign path_parts = file.path | split: "/" | pop | join: "/" %}
+{% assign page_dir_parts = page.dir | remove_first: "/" %}
+{% if path_parts contains page_dir_parts and path_parts != page_dir_parts %}
+{% assign index_files = index_files | push: file %}
+{% endif %}
+{% endif %}
+{% endfor %}
+
+{% assign index_files = index_files | sort: "title" %}
+
+<ul>
+    {% for file in index_files %}
+    <li><a href="{{ file.url | relative_url }}">{{ file.title | default: file.path | split: "/" | first }}</a></li>
+    {%- endfor %}
+</ul>
+
+<hr>
+
 {% assign pageCategories = page.dir | split: "/" | where_exp: "i", "i != ''" | sort | join: "/" -%}
 {% for post in site.posts -%}
-    {% assign postCategories = post.categories | sort | join: "/" -%}
-    {% if postCategories contains pageCategories -%}
-        {% include post_excerpt.html post=post -%}
-    {% endif -%}
+{% assign postCategories = post.categories | sort | join: "/" -%}
+{% if postCategories contains pageCategories -%}
+{% include post_excerpt.html post=post -%}
+{% endif -%}
 {% endfor -%}
-
