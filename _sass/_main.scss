@@ -14,17 +14,19 @@ body {
   background: $backgroundColor;
   color: $bodyColor;
   font-family: $bodyFont;
-  width: unquote("max(800px, 80%)");
+  width: min(95%, 1000px);
   margin: 0 auto;
   min-height: 100%;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-@media only screen and (max-width: 480px) {
-  body {
-    width: 100%;
-  }
+li {
+  margin: 0.3em 0;
+}
+
+li li {
+  margin: 0.1em 0;
 }
 
 nav {
@@ -36,6 +38,7 @@ nav {
     padding: 0;
     margin: 0;
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
   }
 
@@ -44,18 +47,11 @@ nav {
     text-decoration: none;
     font-weight: bold;
     font-size: 1.1em;
-    padding: 2px 20px;
+    padding: 0.3em 0.5em;
   }
 
   .active li {
     color: $accentColor2;
-  }
-}
-
-@media only screen and (max-width: 480px) {
-  nav ul {
-    flex-wrap: wrap;
-    gap: 10px;
   }
 }
 

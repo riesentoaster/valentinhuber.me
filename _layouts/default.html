@@ -16,7 +16,9 @@
 <body>
   {% include nav.html -%}
   <main>
+    {% unless page.no-header %}
     <h1>{{ page.header | default: page.title }}</h1>
+    {% endunless %}
     {{ content -}}
   </main>
   <script>hljs.highlightAll();</script>
