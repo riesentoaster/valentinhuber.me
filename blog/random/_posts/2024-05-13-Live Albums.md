@@ -29,7 +29,7 @@ It's [Dire Straits](https://en.wikipedia.org/wiki/Alchemy:_Dire_Straits_Live). '
 ## Vulfpeck — Live at Madison Square Garden
 This may be the funniest and most entertaining [album](https://en.wikipedia.org/wiki/Vulfpeck#Studio_albums_and_Live_at_Madison_Square_Garden) of this list. It's dirtily clean funk from a band with a great sense of humour and lots of great guest artists.
 
-## Florence + the Machine – Symphony of Lungs - BBC Proms at the Royal Albert Hall
+## Florence + the Machine — Symphony of Lungs - BBC Proms at the Royal Albert Hall
 For some reasons, concerts live at the Royal Albert Hall often are just spectacular. I particularly love the arrangements of [this concert](https://www.youtube.com/playlist?list=OLAK5uy_ksqzwzZ1VpB_AvJzUTk1-GqZnOmA3ZPxA) by Jules Buckley and his orchestra. If you look for it, you may also find the video online, which is worth a watch.
 
 ## Honorable Mentions
