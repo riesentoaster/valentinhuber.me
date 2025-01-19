@@ -34,6 +34,7 @@ This is why I recommend using a password manager. That way you only have to reme
   - Your password manager may cost something. Pay it. It will be worth it.
 - Use two-factor authentication where possible.
   - This is mandatory for all important accounts such as your bank and your email account (if I have access to that, I can probably reset the password on any of your other accounts and get access that way).
+  - If at all possible, [don't use SMS as a second factor](https://www.cnet.com/news/privacy/do-you-use-sms-for-two-factor-authentication-heres-why-you-shouldnt) but instead a dedicated app. 
   - Adding the second factor like a one-time password (OTP) to your password manager makes it slightly less secure but much more convenient to use because it is automatically filled in like your password and saves you the hassle of taking out a second device, opening a special app and manually copying a code. It will still be much more secure than not having a second factor at all. Personally, I accept this trade-off.
 - Consider signing up for [haveibeenpwned](https://haveibeenpwned.com). It will check if any of your accounts have ever been compromised, and you can set it to send you an email if this happens in the future.
 
@@ -44,3 +45,4 @@ To make sure your other passwords are secure, I would recommend using passphrase
 
 ## Changelog
 - 2023-11-19: Added section about ad blockers
+- 2025-01-19: Added note about not using SMS as a second factor
