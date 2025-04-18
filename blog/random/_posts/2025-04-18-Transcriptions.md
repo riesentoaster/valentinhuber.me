@@ -6,6 +6,8 @@ I much prefer listening to reading in general. It's just easier for me to follow
 
 ## Create Transcript
 
+### The Manual (and Open Source) Way
+
 There are many ways of doing this, but the easiest (at least for me) is by creating the transcripts locally, using OpenAI's whisper model, which thankfully is open-weights and thus free to use for everyone. On macOS, this is fairly easy to do using [`mlx_whisper`](https://pypi.org/project/mlx-whisper/) – I'll refer to their documentation for the installation steps. To use it, I've added this line to my `~/.zshrc`:
 
 ```bash
@@ -20,9 +22,17 @@ transcribe "<your-audio-file.mp3>"
 
 This will leave you with `your-audio-file.vtt`, which contains the transcript along with timestamps.
 
+### The Comfortable Way
+
+I've stumbled across the macOS app MacWhisper which makes this whole process much easier, but you can only use the inferior models for free. It is available from the [App Store (and is called Whisper Transcription there)](https://apps.apple.com/ch/app/whisper-transcription/id1668083311), or directly from the [developer's website](https://goodsnooze.gumroad.com/l/macwhisper). The latter claims to give 30% discounts for the pro version for journalist, student or non-profit employees.
+
+You can just import your files, wait for the transcription to finish, and then export the transcript in the correct file format by selecting `Export` > `Subtitles` > `.vtt`.
+
 ## Consume Transcript
 
 For this, I wrote a little static webpage: [riesentoaster.github.io/local-podlove-player/](https://riesentoaster.github.io/local-podlove-player/). First, you add your audio file and your `.vtt` transcription file. Everything happens in your browser, no data leaves your computer. After clicking `Load Player`, you can start your audio. A few notes on the player:
 - You can jump to a timestamp in the audio by clicking on the text in the transcript
 - You can set the transcript to follow the audio by clicking `Follow Text`
 - You can change playback speed by clicking on the speed button in the main player controls
+
+![](/assets/transcriptions-screenshot.png)
