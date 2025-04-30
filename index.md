@@ -23,8 +23,8 @@ no-header: true
 
 ## Short CV
 
-- I'm currently pursuing my master's degree in computer science at [ZHAW](https://zhaw.ch), focusing on cybersecurity.
-  - I have been accepted as a CYD Fellow to write my master's thesis at [Cyber-Defense Campus](https://cydcampus.ch) about fuzzing the TCP/IP stack of the real-time operating system Zephyr.
+- I completed my master's degree in computer science at [ZHAW](https://zhaw.ch), focusing on cybersecurity.
+  - I have been accepted as a CYD Fellow and wrote my master's thesis at [Cyber-Defense Campus](https://cydcampus.ch). It is titled [FTZ: A State-Inferring Fuzzer for the TCP/IP Stack of Zephyr]({% post_url blog/cybersecurity/2025-04-30-FTZ %}).
 - I received my bachelor's degree in computer science summa cum laude at [ZHAW](https://zhaw.ch).
   - I wrote my bachelor's thesis about [Ghidrion]({% post_url blog/cybersecurity/2023-07-07-Ghidrion %}), a symbolic execution plugin for Ghidra, in collaboration with ZHAW and [Cyber-Defense Campus](https://cydcampus.ch).
   - I got to study abroad for a semester at [North Carolina State University](https://ncsu.edu) in Raleigh, NC, USA.
