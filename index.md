@@ -35,6 +35,7 @@ no-header: true
 ---
 
 ## Academic Projects
+- [*FTZ: A State-Inferring Fuzzer for the TCP/IP Stack of Zephyr*]({% post_url blog/cybersecurity/2025-04-30-FTZ %}), Master's Thesis, 22.02.2025
 - [*Differential Fuzzing on coreutils Using LibAFL*]({% post_url blog/cybersecurity/2024-06-25-Differential Fuzzing on coreutils Using LibAFL %}), Semester Project, 25.06.2024
 - [*Running KLEE on GNU coreutils*]({% post_url blog/cybersecurity/2024-02-13-Running KLEE on GNU coreutils %}), Semester Project, 13.02.2024
 - [*Challenges and Mitigation Strategies in Symbolic Execution Based Fuzzing Through the Lens of Survey Papers*]({% post_url blog/cybersecurity/2023-12-15-Challenges and Mitigation Strategies in Symbolic Execution Based Fuzzing Through the Lens of Survey Papers %}), Security Seminar, 15.12.2023
