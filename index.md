@@ -23,6 +23,7 @@ no-header: true
 
 ## Short CV
 
+- I am currently pursuing a [PhD at CISPA in Saarbrücken under Prof. Dr. Andreas Zeller](https://cispa.de/en/people/c01vahu), working on fuzzers such as [Fandango](http://fandango-fuzzer.github.io/).
 - I completed my master's degree in computer science at [ZHAW](https://zhaw.ch), focusing on cybersecurity.
   - I have been accepted as a CYD Fellow and wrote my master's thesis at [Cyber-Defense Campus](https://cydcampus.ch). It is titled [FTZ: A State-Inferring Fuzzer for the TCP/IP Stack of Zephyr]({% post_url blog/cybersecurity/2025-04-30-FTZ %}).
 - I received my bachelor's degree in computer science summa cum laude at [ZHAW](https://zhaw.ch).
@@ -44,8 +45,9 @@ no-header: true
 ---
 
 ## Other Projects
-- [deep](https://deep.valentinhuber.me), my [open-source](https://github.com/riesentoaster/deep) conversation game
+- [Fandango](http://fandango-fuzzer.github.io/), a language fuzzer that I am working on as part of my PhD at CISPA. 
 - [LibAFL](https://github.com/aflplusplus/libafl), a fuzzing library written in Rust that I have contributed to extensively
+- [deep](https://deep.valentinhuber.me), my [open-source](https://github.com/riesentoaster/deep) conversation game
 
 ---
 
