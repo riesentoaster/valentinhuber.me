@@ -45,7 +45,7 @@ no-header: true
 ---
 
 ## Other Projects
-- [Fandango](http://fandango-fuzzer.github.io/), a language fuzzer that I am working on as part of my PhD at CISPA. 
+- [Fandango](http://fandango-fuzzer.github.io/), a language fuzzer that I am working on as part of my PhD at CISPA
 - [LibAFL](https://github.com/aflplusplus/libafl), a fuzzing library written in Rust that I have contributed to extensively
 - [deep](https://deep.valentinhuber.me), my [open-source](https://github.com/riesentoaster/deep) conversation game
 
