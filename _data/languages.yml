@@ -1,0 +1,7 @@
+- name: "en"
+  htmlLangTag: "en"
+  label: "English"
+  
+- name: "de"
+  htmlLangTag: "de-CH"
+  label: "Deutsch"

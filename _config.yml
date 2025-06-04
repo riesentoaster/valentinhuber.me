@@ -9,9 +9,9 @@ defaults:
       path: "*"
     values:
       layout: "default"
-      language: "english"
+      language: "en"
   - scope:
-      path: "*/*"
+      path: "blog/*"
       type: posts
     values:
       layout: "post"
