@@ -3,7 +3,8 @@
 <a href="{{ post.url }}" class="exc">
     <article>
         <h3>{{ post.title }}</h3>
-        <p><i>{{ post.date | date_to_long_string }} – Written by {{ post.author.name -}}
+        <p><i>{{ post.date | date_to_long_string }}
+                {%- if post.updated %} – updated on {{ post.updated | date_to_long_string }}{% endif -%}
                 {% unless tagsCategories == empty %} – in {{ tagsCategories | array_to_sentence_string }}{% endunless
                 -%}
             </i></p>
