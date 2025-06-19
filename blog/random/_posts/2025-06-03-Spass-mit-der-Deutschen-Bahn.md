@@ -1,7 +1,7 @@
 ---
 title: "Spass mit der Deutschen Bahn"
 language: "de"
-updated: "2025-06-14"
+updated: "2025-06-18"
 ---
 
 Ich fahre regelmässig mit der Deutschen Bahn zwischen Schaffhausen und Saarbrücken, über Singen, Karlsruhe und Neustadt (Weinstr.). Diese Verbindungen sind so abenteuerlich und häufig verspätet, dass ich hier Statistiken führen und Geschichten aufschreiben möchte.
@@ -13,6 +13,7 @@ Die Zahlen nach den Abfahrts-/Ankunftszeiten entsprechen Verspätungen ab dem or
 | Datum      | Schaffhausen ab | Singen an  | Singen ab   | Karlsruhe an | Karlsruhe ab | Neustadt an | Neustadt ab | Saarbrücken an |
 |------------|-----------------|------------|-------------|--------------|--------------|-------------|-------------|----------------|
 | 03.06.2025 | 12:37           | 12:55 (+1) | 13:07 (+10) | 15:49 (+20)  | 16:01 (+13)  | 16:51 (+18) | 17:00 (+26) | 18:15 (+43)    |
+| 18.06.2025 | 10:37           | 10:55      | 11:07 (-8)  | 13:49 (+6)   | 14:05        | 14:51 (+2)  | 15:00 (+1)  | 16:15          |
 
 
 ## Saarbrücken -> Schaffhausen
@@ -23,6 +24,9 @@ Die Zahlen nach den Abfahrts-/Ankunftszeiten entsprechen Verspätungen ab dem or
 
 
 ## Kommentare und Geschichten:
+- 18.6.2025
+  - In Singen: Der Zug eine Stunde früher hatte fast eine Stunde Verspätung und fährt also nur ein paar Minuten vor meiner ursprünglich geplanten Verbindung. Ich nehme ihn, um später mehr Buffer zu haben.
+  - In Baden-Baden: "Dieser Zug endet auf Grund starker Verspätung in Baden-Baden. Reisende Richtung Karlsruhe nehmen bitte den nachfolgenden Zug, der direkt hinter uns ist." Scheuer-Wende. Ich steige in den Zug, den ich ursprünglich ab Singen nehmen wollte.
 - 13.6.2025
   - In Neustadt: Nächste Verbindung fällt aus, Scheuer-Wende. Der Alternativ-Zug hat ungefähr 35° und dafür eine halbe Stunde länger für dieselbe Strecke.
   - In Karlsruhe: Eine halbe Stunde Pause. Respektive ein früherer Zug bis nach Offenburg, falls es ein weiteres Problem geben sollte mit der nächsten Schwarzwaldbahn.
