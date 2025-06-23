@@ -21,9 +21,12 @@ Die Zahlen nach den Abfahrts-/Ankunftszeiten entsprechen Verspätungen ab dem or
 | Datum      | Saarbrücken ab | Neustadt an | Neustadt ab | Karlsruhe an | Karlsruhe ab | Singen an   | Singen ab   | Schaffhausen an |
 |------------|----------------|-------------|-------------|--------------|--------------|-------------|-------------|-----------------|
 | 13.06.2025 | 15:47 (+2)     | 16:58 (+4)  | 17:09 (+7)  | 17:54 (+37)  | 18:10 (+29)  | 20:50 (+62) | 21:06 (+60) | 21:24 (+60)     |
+| 20.06.2025 | 11:47 (+2)     | 12:58 (+1)  | 13:05 (+2)  | 13:54 (+1)   | 14:07        | 16:50       | 17:06       | 17:24           |
 
 
 ## Kommentare und Geschichten:
+- 20.6.2025
+  - Es hat alles geklappt! Ein Wunder!
 - 18.6.2025
   - In Singen: Der Zug eine Stunde früher hatte fast eine Stunde Verspätung und fährt also nur ein paar Minuten vor meiner ursprünglich geplanten Verbindung. Ich nehme ihn, um später mehr Buffer zu haben.
   - In Baden-Baden: "Dieser Zug endet auf Grund starker Verspätung in Baden-Baden. Reisende Richtung Karlsruhe nehmen bitte den nachfolgenden Zug, der direkt hinter uns ist." Scheuer-Wende. Ich steige in den Zug, den ich ursprünglich ab Singen nehmen wollte.
