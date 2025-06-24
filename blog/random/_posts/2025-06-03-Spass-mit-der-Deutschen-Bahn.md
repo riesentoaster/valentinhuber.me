@@ -14,6 +14,7 @@ Die Zahlen nach den Abfahrts-/Ankunftszeiten entsprechen Verspätungen ab dem or
 |------------|-----------------|------------|-------------|--------------|--------------|-------------|-------------|----------------|
 | 03.06.2025 | 12:37           | 12:55 (+1) | 13:07 (+10) | 15:49 (+20)  | 16:01 (+13)  | 16:51 (+18) | 17:00 (+26) | 18:15 (+43)    |
 | 18.06.2025 | 10:37           | 10:55      | 11:07 (-8)  | 13:49 (+6)   | 14:05        | 14:51 (+2)  | 15:00 (+1)  | 16:15          |
+| 24.06.2025 | 10:37           | 10:55      | 11:07 (+1)  | 13:49 (+11)  | 14:05 (+35)  | 14:51 (+66) | 15:00 (+63) | 16:15 (+60)    |
 
 
 ## Saarbrücken -> Schaffhausen
@@ -25,6 +26,10 @@ Die Zahlen nach den Abfahrts-/Ankunftszeiten entsprechen Verspätungen ab dem or
 
 
 ## Kommentare und Geschichten:
+- 24.6.2025
+  - Karlsruhe: Zug ab Karlsruhe hat grosse Verspätung, ich werde also sowieso eine Stunde später ankommen, weil ich in Neustadt den Anschluss nicht mehr erreiche.
+  - Landau (Pfalz): Scheuer-Wende! Ich lande im Zug, der fahrplanmässig eine Stunde nach meiner ursprünglichen Verbindung unterwegs ist und auch schon wieder Verspätung hat.
+  - Neustadt: Die DB-App lügt mich an und ich komme rechtzeitig (genug) an, um meinen Anschluss zu erwischen.
 - 20.6.2025
   - Es hat alles geklappt! Ein Wunder!
 - 18.6.2025
