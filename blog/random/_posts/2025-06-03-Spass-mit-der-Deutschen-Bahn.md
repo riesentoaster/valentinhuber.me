@@ -23,9 +23,13 @@ Die Zahlen nach den Abfahrts-/Ankunftszeiten entsprechen Verspätungen ab dem or
 |------------|----------------|-------------|-------------|--------------|--------------|-------------|-------------|-----------------|
 | 13.06.2025 | 15:47 (+2)     | 16:58 (+4)  | 17:09 (+7)  | 17:54 (+37)  | 18:10 (+29)  | 20:50 (+62) | 21:06 (+60) | 21:24 (+60)     |
 | 20.06.2025 | 11:47 (+2)     | 12:58 (+1)  | 13:05 (+2)  | 13:54 (+1)   | 14:07        | 16:50       | 17:06       | 17:24           |
+| 05.07.2025 | 12:47 (+8)     | 13:58 (+1)  | 14:09 (+3)  | 14:54 (+5)   | 15:07 (+16)  | 17:50 (+16) | 18:06 (+30) | 18:24 (+30)     |
 
 
 ## Kommentare und Geschichten:
+- 5.7.2025
+  - Neustadt: Das erste Mal hat die DB Zeit aufgeholt, in einem Mass, was mir einen Anschluss gerettet hat. Normalerweise nimmt Verspätung von mehr als 5 Minuten nur noch mehr zu.
+  - Singen: Anschluss verpasst, um wohl ca. 30 Sekunden.
 - 24.6.2025
   - Karlsruhe: Zug ab Karlsruhe hat grosse Verspätung, ich werde also sowieso eine Stunde später ankommen, weil ich in Neustadt den Anschluss nicht mehr erreiche.
   - Landau (Pfalz): Scheuer-Wende! Ich lande im Zug, der fahrplanmässig eine Stunde nach meiner ursprünglichen Verbindung unterwegs ist und auch schon wieder Verspätung hat.
