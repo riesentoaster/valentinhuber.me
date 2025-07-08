@@ -15,6 +15,7 @@ Die Zahlen nach den Abfahrts-/Ankunftszeiten entsprechen Verspätungen ab dem or
 | 03.06.2025 | 12:37           | 12:55 (+1) | 13:07 (+10) | 15:49 (+20)  | 16:01 (+13)  | 16:51 (+18) | 17:00 (+26) | 18:15 (+43)    |
 | 18.06.2025 | 10:37           | 10:55      | 11:07 (-8)  | 13:49 (+6)   | 14:05        | 14:51 (+2)  | 15:00 (+1)  | 16:15          |
 | 24.06.2025 | 10:37           | 10:55      | 11:07 (+1)  | 13:49 (+11)  | 14:05 (+35)  | 14:51 (+66) | 15:00 (+63) | 16:15 (+60)    |
+| 08.07.2025 | 10:37           | 10:55      | 11:07 (+1)  | 13:49 (+4)   | 14:05 (+3)   | 14:51 (+15) | 15:00 (+32) | 16:15 (+60)    |
 
 
 ## Saarbrücken -> Schaffhausen
@@ -27,6 +28,9 @@ Die Zahlen nach den Abfahrts-/Ankunftszeiten entsprechen Verspätungen ab dem or
 
 
 ## Kommentare und Geschichten:
+- 8.7.2025
+  - Neustadt: Anschluss verpasst. Die Alternativverbindung sind zwei Bummler via Kaiserslautern, die mich mit 45min Verspätung in Saarbrücken ankommen lassen würden.
+  - Kaiserslautern: Der Zug war mehr oder weniger pünktlich in Neustadt abgefahren, hat aber in Kaiserslautern so viel Verspätung, dass ich den Anschluss verpasse. Ich lande am Schluss auf derselben Verbindung wie urpsrünglich geplant, einfach mit einer Stunde Verspätung.
 - 5.7.2025
   - Neustadt: Das erste Mal hat die DB Zeit aufgeholt, in einem Mass, was mir einen Anschluss gerettet hat. Normalerweise nimmt Verspätung von mehr als 5 Minuten nur noch mehr zu.
   - Singen: Anschluss verpasst, um wohl ca. 30 Sekunden.
