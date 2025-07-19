@@ -25,9 +25,12 @@ Die Zahlen nach den Abfahrts-/Ankunftszeiten entsprechen Verspätungen ab dem or
 | 13.06.2025 | 15:47 (+2)     | 16:58 (+4)  | 17:09 (+7)  | 17:54 (+37)  | 18:10 (+29)  | 20:50 (+62) | 21:06 (+60) | 21:24 (+60)     |
 | 20.06.2025 | 11:47 (+2)     | 12:58 (+1)  | 13:05 (+2)  | 13:54 (+1)   | 14:07        | 16:50       | 17:06       | 17:24           |
 | 05.07.2025 | 12:47 (+8)     | 13:58 (+1)  | 14:09 (+3)  | 14:54 (+5)   | 15:07 (+16)  | 17:50 (+16) | 18:06 (+30) | 18:24 (+30)     |
+| 19.07.2025 | 16:47 (+8)     | 17:58 (+1)  | 18:09 (+1)  | 18:54 (+3)   | 19:07        | 17:50 (+6)  | 18:06       | 18:24           |
 
 
 ## Kommentare und Geschichten:
+- 19.7.2025
+  - Offenburg: Durchsage: Dieser Zug fährt zurück nach Karlsruhe, steigen Sie bitte alle aus und nehmen Sie den Zug auf Gleis 4. Riesen-Chaos in der einzigen Unterführung, weil parallel ein grosser Menschenstrom in die Gegenrichtung unterwegs ist. Der Zug fährt mit 11 Minuten Verspätung ab, ein Teil davon wird bis Singen wieder abgebaut.
 - 8.7.2025
   - Neustadt: Anschluss verpasst. Die Alternativverbindung sind zwei Bummler via Kaiserslautern, die mich mit 45min Verspätung in Saarbrücken ankommen lassen würden.
   - Kaiserslautern: Der Zug war mehr oder weniger pünktlich in Neustadt abgefahren, hat aber in Kaiserslautern so viel Verspätung, dass ich den Anschluss verpasse. Ich lande am Schluss auf derselben Verbindung wie urpsrünglich geplant, einfach mit einer Stunde Verspätung.
