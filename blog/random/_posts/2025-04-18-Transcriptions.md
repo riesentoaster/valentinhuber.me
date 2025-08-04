@@ -36,3 +36,7 @@ For this, I wrote a little static webpage: [riesentoaster.github.io/local-podlov
 - You can change playback speed by clicking on the speed button in the main player controls
 
 ![](/assets/transcriptions-screenshot.png)
+
+## Text to Speech
+
+I also wrote about doing the reverse using open weights text to speech models [here]({% post_url blog/random/2025-08-01-Text to Speech %}).
