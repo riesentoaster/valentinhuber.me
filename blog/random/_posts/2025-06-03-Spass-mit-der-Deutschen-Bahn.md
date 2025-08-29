@@ -1,7 +1,7 @@
 ---
 title: "Spass mit der Deutschen Bahn"
 language: "de"
-updated: "2025-06-18"
+updated: "2025-08-29"
 ---
 
 Ich fahre regelmässig mit der Deutschen Bahn zwischen Schaffhausen und Saarbrücken, über Singen, Karlsruhe und Neustadt (Weinstr.). Diese Verbindungen sind so abenteuerlich und häufig verspätet, dass ich hier Statistiken führen und Geschichten aufschreiben möchte.
@@ -25,10 +25,15 @@ Die Zahlen nach den Abfahrts-/Ankunftszeiten entsprechen Verspätungen ab dem or
 | 13.06.2025 | 15:47 (+2)     | 16:58 (+4)  | 17:09 (+7)  | 17:54 (+37)  | 18:10 (+29)  | 20:50 (+62) | 21:06 (+60) | 21:24 (+60)     |
 | 20.06.2025 | 11:47 (+2)     | 12:58 (+1)  | 13:05 (+2)  | 13:54 (+1)   | 14:07        | 16:50       | 17:06       | 17:24           |
 | 05.07.2025 | 12:47 (+8)     | 13:58 (+1)  | 14:09 (+3)  | 14:54 (+5)   | 15:07 (+16)  | 17:50 (+16) | 18:06 (+30) | 18:24 (+30)     |
-| 19.07.2025 | 16:47 (+8)     | 17:58 (+1)  | 18:09 (+1)  | 18:54 (+3)   | 19:07        | 17:50 (+6)  | 18:06       | 18:24           |
+| 19.07.2025 | 16:47 (+8)     | 17:58 (+1)  | 18:09 (+1)  | 18:54 (+3)   | 19:07        | 21:50 (+6)  | 22:06       | 22:24           |
+| 29.08.2025 | 15:47 (+16)    | 16:58 (+3)  | 17:09 (+7)  | 17:54 (+35)  | 18:10 (+61)  | 20:50 (+65) | 21:06 (+60) | 21:24  (+60)    |
 
 
 ## Kommentare und Geschichten:
+- 29.8.2025
+  - Saarbrücken: Der Zug fährt völlig überfüllt mit gut Verspätung ab – ab Kaiserslautern wird es noch voller.
+  - Neustadt: Die meiste Verspätung wurde wieder abgebaut, leider fällt der Anschlusszug aus. Ich nehme also eine Zwischenverbindung, die zwar länger fährt, aber früher schon in Karlsruhe ist. Das habe ich mir irgendwann angewöhnt, um resistenter gegen weitere Verspätungen zu sein.
+  - Karlsruhe: Ich sitze eine halbe Stunde am Bahnhof und fahre dann eine Stunde (und ein paar Bonus-Minuten) später weiter.
 - 19.7.2025
   - Offenburg: Durchsage: Dieser Zug fährt zurück nach Karlsruhe, steigen Sie bitte alle aus und nehmen Sie den Zug auf Gleis 4. Riesen-Chaos in der einzigen Unterführung, weil parallel ein grosser Menschenstrom in die Gegenrichtung unterwegs ist. Der Zug fährt mit 11 Minuten Verspätung ab, ein Teil davon wird bis Singen wieder abgebaut.
 - 8.7.2025
@@ -55,3 +60,6 @@ Die Zahlen nach den Abfahrts-/Ankunftszeiten entsprechen Verspätungen ab dem or
   - In Offenburg: [Scheuer-Wende](https://media.ccc.de/v/36c3-10652-bahnmining_-_punktlichkeit_ist_eine_zier). Auf dem Gleis gegenüber fährt eine andere Schwarzwaldbahn mit so viel Verspätung, dass ich sie erwische. Alle Pläne sind schon längst gestorben.
   - In Karlsruhe: Ich habe den Anschluss nach einem Sprint durch den Bahnhof nur erwischt, weil der Anschluss auch Verspätung hatte.
   - In Neustadt: Hier hat dieses Prinzip leider nicht funktioniert, ich habe also unterwegs noch Kaiserslautern angeschaut. Und dort wegen weiteren Verspätungen fast den Anschluss verpasst.
+
+## Addendum
+- Ich trage die Zeiten nicht bei jeder Fahrt ein. Die Statistik ist aber immernoch ungefähr representativ – ich schreibe nicht nur die schlechten Fahrten auf!
