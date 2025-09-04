@@ -1,7 +1,7 @@
 ---
 title: "Spass mit der Deutschen Bahn"
 language: "de"
-updated: "2025-08-29"
+updated: "2025-09-04"
 ---
 
 Ich fahre regelmässig mit der Deutschen Bahn zwischen Schaffhausen und Saarbrücken, über Singen, Karlsruhe und Neustadt (Weinstr.). Diese Verbindungen sind so abenteuerlich und häufig verspätet, dass ich hier Statistiken führen und Geschichten aufschreiben möchte.
@@ -10,13 +10,13 @@ Die Zahlen nach den Abfahrts-/Ankunftszeiten entsprechen Verspätungen ab dem or
 
 ## Schaffhausen -> Saarbrücken
 
-| Datum      | Schaffhausen ab | Singen an  | Singen ab   | Karlsruhe an | Karlsruhe ab | Neustadt an | Neustadt ab | Saarbrücken an |
-|------------|-----------------|------------|-------------|--------------|--------------|-------------|-------------|----------------|
-| 03.06.2025 | 12:37           | 12:55 (+1) | 13:07 (+10) | 15:49 (+20)  | 16:01 (+13)  | 16:51 (+18) | 17:00 (+26) | 18:15 (+43)    |
-| 18.06.2025 | 10:37           | 10:55      | 11:07 (-8)  | 13:49 (+6)   | 14:05        | 14:51 (+2)  | 15:00 (+1)  | 16:15          |
-| 24.06.2025 | 10:37           | 10:55      | 11:07 (+1)  | 13:49 (+11)  | 14:05 (+35)  | 14:51 (+66) | 15:00 (+63) | 16:15 (+60)    |
-| 08.07.2025 | 10:37           | 10:55      | 11:07 (+1)  | 13:49 (+4)   | 14:05 (+3)   | 14:51 (+15) | 15:00 (+32) | 16:15 (+60)    |
-
+| Datum      | Schaffhausen ab | Singen an   | Singen ab   | Karlsruhe an | Karlsruhe ab | Neustadt an | Neustadt ab | Saarbrücken an |
+|------------|-----------------|-------------|-------------|--------------|--------------|-------------|-------------|----------------|
+| 03.06.2025 | 12:37           | 12:55 (+1)  | 13:07 (+10) | 15:49 (+20)  | 16:01 (+13)  | 16:51 (+18) | 17:00 (+26) | 18:15 (+43)    |
+| 18.06.2025 | 10:37           | 10:55       | 11:07 (-8)  | 13:49 (+6)   | 14:05        | 14:51 (+2)  | 15:00 (+1)  | 16:15          |
+| 24.06.2025 | 10:37           | 10:55       | 11:07 (+1)  | 13:49 (+11)  | 14:05 (+35)  | 14:51 (+66) | 15:00 (+63) | 16:15 (+60)    |
+| 08.07.2025 | 10:37           | 10:55       | 11:07 (+1)  | 13:49 (+4)   | 14:05 (+3)   | 14:51 (+15) | 15:00 (+32) | 16:15 (+60)    |
+| 04.09.2025 | 13:37           | 13:55 (+45) | 14:07 (+61) | 13:49 (+63)  | 16:05 (+61)  | 16:51 (+61) | 17:00 (+70) | 18:15 (+60)    |
 
 ## Saarbrücken -> Schaffhausen
 
@@ -30,6 +30,10 @@ Die Zahlen nach den Abfahrts-/Ankunftszeiten entsprechen Verspätungen ab dem or
 
 
 ## Kommentare und Geschichten:
+- 4.9.2025
+  - Schaffhausen: Der Zug kurz vorher fällt aus. Der Bahnsteig ist übervoll. Mein Zug wird erst als verspätet und dann als ausgefallen markiert. Dann kommt er trotzdem. Ich steige ein.
+  - Thayngen: Im Zug wird gesagt, der Zug halte hier an und es habe Schienenersatz-Busse. Diese tauchen nicht aus. Dafür werden wir alle zurück zum Bahnsteig gescheucht. Mittlerweile bin ich 45min zu spät unterwegs.
+  - Singen: Eine kurze Wartezeit am Bahnhof, dann gehts fahrplanmässig (wenn auch eine Stunde später) weiter
 - 29.8.2025
   - Saarbrücken: Der Zug fährt völlig überfüllt mit gut Verspätung ab – ab Kaiserslautern wird es noch voller.
   - Neustadt: Die meiste Verspätung wurde wieder abgebaut, leider fällt der Anschlusszug aus. Ich nehme also eine Zwischenverbindung, die zwar länger fährt, aber früher schon in Karlsruhe ist. Das habe ich mir irgendwann angewöhnt, um resistenter gegen weitere Verspätungen zu sein.
