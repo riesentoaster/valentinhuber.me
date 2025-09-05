@@ -1,7 +1,7 @@
 ---
 title: "Spass mit der Deutschen Bahn"
 language: "de"
-updated: "2025-09-04"
+updated: "2025-09-05"
 ---
 
 Ich fahre regelmässig mit der Deutschen Bahn zwischen Schaffhausen und Saarbrücken, über Singen, Karlsruhe und Neustadt (Weinstr.). Diese Verbindungen sind so abenteuerlich und häufig verspätet, dass ich hier Statistiken führen und Geschichten aufschreiben möchte.
@@ -17,6 +17,7 @@ Die Zahlen nach den Abfahrts-/Ankunftszeiten entsprechen Verspätungen ab dem or
 | 24.06.2025 | 10:37           | 10:55       | 11:07 (+1)  | 13:49 (+11)  | 14:05 (+35)  | 14:51 (+66) | 15:00 (+63) | 16:15 (+60)    |
 | 08.07.2025 | 10:37           | 10:55       | 11:07 (+1)  | 13:49 (+4)   | 14:05 (+3)   | 14:51 (+15) | 15:00 (+32) | 16:15 (+60)    |
 | 04.09.2025 | 13:37           | 13:55 (+45) | 14:07 (+61) | 13:49 (+63)  | 16:05 (+61)  | 16:51 (+61) | 17:00 (+70) | 18:15 (+60)    |
+| 05.09.2025 | 16:37           | 16:55       | 17:07       | 19:49        | 20:05 (+1)   | 20:51 (+3)  | 21:11 (+1)  | 22:15          |
 
 ## Saarbrücken -> Schaffhausen
 
@@ -27,9 +28,14 @@ Die Zahlen nach den Abfahrts-/Ankunftszeiten entsprechen Verspätungen ab dem or
 | 05.07.2025 | 12:47 (+8)     | 13:58 (+1)  | 14:09 (+3)  | 14:54 (+5)   | 15:07 (+16)  | 17:50 (+16) | 18:06 (+30) | 18:24 (+30)     |
 | 19.07.2025 | 16:47 (+8)     | 17:58 (+1)  | 18:09 (+1)  | 18:54 (+3)   | 19:07        | 21:50 (+6)  | 22:06       | 22:24           |
 | 29.08.2025 | 15:47 (+16)    | 16:58 (+3)  | 17:09 (+7)  | 17:54 (+35)  | 18:10 (+61)  | 20:50 (+65) | 21:06 (+60) | 21:24  (+60)    |
+| 05.09.2025 | 06:08 (+1)     | 07:15 (+1)  | 08:09 (-51) | 08:54 (-20)  | 09:07        | 11:50 (+3)  | 12:06       | 12:24           |
 
 
 ## Kommentare und Geschichten:
+- 5.9.2025 Saarbrücken -> Schaffhausen
+  - Neustadt: Ich renne auf eine frühere Verbindung in Richtung Karlsruhe, die ich gerade noch erwische. Das lohnt sich – eine halbe Stunde später finde ich raus, dass die urpsrünglich geplante Verbindung ausfällt.
+  - Karlsruhe: Der Zug kommt knapp 10 Minuten zu spät an. Ich kann darum nicht schon früher Richtung Offenburg weiterfahren. Ich warte also eine halbe Stunde.
+  - Triberg: Der Zug fährt ab. Irgendwann die automatische Durchsage: «Nächster Halt: Triberg». Direkt anschliessend die Lokführerin in breitem Dialekt: «Ich fahr jetzt nicht mehr zurück nach Triberg. Nächster Halt ist St. Georgen.»
 - 4.9.2025
   - Schaffhausen: Der Zug kurz vorher fällt aus. Der Bahnsteig ist übervoll. Mein Zug wird erst als verspätet und dann als ausgefallen markiert. Dann kommt er trotzdem. Ich steige ein.
   - Thayngen: Im Zug wird gesagt, der Zug halte hier an und es habe Schienenersatz-Busse. Diese tauchen nicht aus. Dafür werden wir alle zurück zum Bahnsteig gescheucht. Mittlerweile bin ich 45min zu spät unterwegs.
