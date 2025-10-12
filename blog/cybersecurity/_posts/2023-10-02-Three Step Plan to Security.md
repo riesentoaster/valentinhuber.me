@@ -4,6 +4,8 @@ title: Three Step Plan to Security
 
 > tl;dr: Properly use a password manager on an up-to-date, backed-up device.
 
+> Diesen Blog-Post gibt es auch [auf Deutsch]({% post_url blog/cybersecurity/2025-10-12-Drei-Schritt-Plan zur Sicherheit %}).
+
 I believe these three rules should be followed by everyone and, if done properly, will make you more secure than most other internet users. This list is not exhaustive and if you have a higher risk profile (e.g. if you are a head of state, CEO or CFO of a company, or a journalist working with dissidents) you will want to do more. It also doesn't mean that you're fully secure and don't need to pay attention.
 
 ## Updates
@@ -26,7 +28,7 @@ Back up any data you don't want to lose. Backups protect you from two things: at
 ## Passwords
 In general, [users are *terrible* at creating passwords](https://www.pentestfactory.com/why-we-crack-80-of-your-employees-passwords/). Chances are you're not much better than average. And I don't blame you: Humans are terrible at remembering data in the form required for passwords to be secure. Also, you need to have a different password for each account (I have well over 400 passwords in my password manager), and that just does not scale well.
 
-This is why I recommend using a password manager. That way you only have to remember two passwords: one to unlock your computer and one to unlock your password manager. You can make these really strong and let the password manager handle the rest. Let it generate passwords that are much longer and more complex than you could ever remember. Because password managers only automatically fill in your passwords on the sites they belong to, this will also protect you a bit against fishing attacks. So:
+This is why I recommend using a password manager. That way you only have to remember two passwords: one to unlock your computer and one to unlock your password manager. You can make these really strong and let the password manager handle the rest. Let it generate passwords that are much longer and more complex than you could ever remember. Because password managers only automatically fill in your passwords on the sites they belong to, this will also protect you a bit against phishing attacks. So:
 
 - Use a password manager! Choose any you like.
   - Check if your device ecosystem has one built in, like [Apple's iCloud Keychain](https://en.wikipedia.org/wiki/ICloud#iCloud_Keychain).
@@ -38,7 +40,7 @@ This is why I recommend using a password manager. That way you only have to reme
   - Adding the second factor like a one-time password (OTP) to your password manager makes it slightly less secure but much more convenient to use because it is automatically filled in like your password and saves you the hassle of taking out a second device, opening a special app and manually copying a code. It will still be much more secure than not having a second factor at all. Personally, I accept this trade-off.
 - Consider signing up for [haveibeenpwned](https://haveibeenpwned.com). It will check if any of your accounts have ever been compromised, and you can set it to send you an email if this happens in the future.
 
-To make sure your other passwords are secure, I would recommend using passphrases. This [comic](https://xkcd.com/936/) explains the concept. Make sure you use 4 random words that aren't related. If you need a way to generate such passphrases, use [this](https://xkpasswd.net/).
+To make sure your other passwords are secure, I would recommend using passphrases. This [comic](https://xkcd.com/936/) explains the concept. Make sure you use 4 random words that aren't related. If you need a way to generate such passphrases, use [this](https://www.xkpasswd.net).
 
 ## Bonus Tips
 - Use an ad blocker! They make the web a lot more pleasant and help with both privacy and security. Wherever available, I would recommend [uBlock Origin](https://ublockorigin.com), it's both open source (and therefore free) and simply the best I've come across so far.
@@ -46,3 +48,4 @@ To make sure your other passwords are secure, I would recommend using passphrase
 ## Changelog
 - 2023-11-19: Added section about ad blockers
 - 2025-01-19: Added note about not using SMS as a second factor
+- 2025-10-12: Added German version
