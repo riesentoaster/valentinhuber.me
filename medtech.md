@@ -22,6 +22,6 @@ Falls du das gerne archiviert hättest: Mach dir ne Kopie, ich kann nicht garant
 - Auch schon in den Medien und seit diesem Jahr in den USA wieder ein ziemliches Thema: [No Body's Business But Mine, a dive into Menstruation Apps – The Not-So Secret Data Sharing Practices Of Menstruation Apps](https://media.ccc.de/v/36c3-10693-no_body_s_business_but_mine_a_dive_into_menstruation_apps)
 - Und als Schluss-Schmankerl: auch andere related Dinge können Spass machen: [Internet of Dongs – A long way to a vibrant future](https://media.ccc.de/v/35c3-9523-internet_of_dongs)
 
-Und noch vieles mehr. Der Chaos Computer Club hat mit [media.ccc.de](https://media.ccc.de) sein eigenes Medien-Portal da findest du vielleicht auch noch mehr Zeug. Und es gibt's glaube ich auch alles auf YouTube.
+Und noch vieles mehr. Der Chaos Computer Club hat mit [media.ccc.de](https://media.ccc.de) sein eigenes Medien-Portal da findest du vielleicht auch noch mehr Zeug. Und es gibt mindestens das allermeiste auch alles auf YouTube.
 
 P.S.: Der [Talk](https://media.ccc.de/v/39c3-gegenmacht-best-of-informationsfreiheit) zu [frag-den-staat.de](https://fragdenstaat.de), über den wir geredet hatten. Und der [Freiheitsfonds](https://freiheitsfonds.de), der Schwarzfahrer freikauft.
