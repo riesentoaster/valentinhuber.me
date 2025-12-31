@@ -25,3 +25,5 @@ Falls du das gerne archiviert hättest: Mach dir ne Kopie, ich kann nicht garant
 Und noch vieles mehr. Der Chaos Computer Club hat mit [media.ccc.de](https://media.ccc.de) sein eigenes Medien-Portal da findest du vielleicht auch noch mehr Zeug. Und es gibt mindestens das allermeiste auch alles auf YouTube.
 
 P.S.: Der [Talk](https://media.ccc.de/v/39c3-gegenmacht-best-of-informationsfreiheit) zu [frag-den-staat.de](https://fragdenstaat.de), über den wir geredet hatten. Und der [Freiheitsfonds](https://freiheitsfonds.de), der Schwarzfahrer freikauft.
+
+P.P.S.: Falls du mal an nen c3 kommen willst oder sonst was ist: Du findest meine Kontaktdaten [ganz unten hier](https://valentinhuber.me).
