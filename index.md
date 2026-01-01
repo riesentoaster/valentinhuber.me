@@ -12,7 +12,6 @@ no-header: true
     margin: 0 auto;
   }
   .hidden-links a {
-    text-decoration: underline;
     text-decoration-color: rgba(0, 0, 0, 0.15);
   }
 </style>
