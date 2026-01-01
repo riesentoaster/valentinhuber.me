@@ -3,11 +3,11 @@ title: "Medizin und Technik – eine Sammlung von CCC-Talks"
 hidden: true
 ---
 
-Ich wollte mal kurz schauen, ob mich mein Gedächtnis betrügt und hab drum mal nach Talks zu Medizin und Technik gessucht.
-Irgendwas muss ich morgen ja auch noch zu tun haben… Und die Liste kann ich auch kurz online stellen.
+Es hat mich doch noch mal gewundert, ob es da nicht mal einen Talk an einem CCC-Event gab zum Thema Medizintechnik.
+Und ich hab mehr gefunden als erst erwartet, und dachte, ich könne die Liste ja auch direkt online stellen – vielleicht interessiert's dich ja auch.
 
 Unsortiert, teils etwas älter und evtl. auch nur mässig relevant, aber vielleicht interessiert dich ja was davon.
-Disclaimer: Ich hab die Talks nicht (noch mal) angeschaut.
+Disclaimer: Ich hab die Talks (noch) nicht (noch mal) angeschaut.
 Falls du das gerne archiviert hättest: Mach dir ne Kopie, ich kann nicht garantiere, dass dieser Link für die nächsten 10 Jahre funktioniert.
 
 - Mein Gedächtnis hat mich nicht betrogen: [Listen to Your Heart: Security and Privacy of Implantable Cardio Foo](https://media.ccc.de/v/rc3-2021-cwtv-272-listen-to-your-heart-s)
@@ -26,4 +26,4 @@ Und noch vieles mehr. Der Chaos Computer Club hat mit [media.ccc.de](https://med
 
 P.S.: Der [Talk](https://media.ccc.de/v/39c3-gegenmacht-best-of-informationsfreiheit) zu [frag-den-staat.de](https://fragdenstaat.de), über den wir geredet hatten. Und der [Freiheitsfonds](https://freiheitsfonds.de), der Schwarzfahrer freikauft.
 
-P.P.S.: Falls du mal an nen c3 kommen willst oder sonst was ist: Du findest meine Kontaktdaten [ganz unten hier](https://valentinhuber.me).
+P.P.S.: Falls du mal an nen c3 kommen willst oder sonst was ist: Du findest meine Kontaktdaten [ganz unten hier](https://valentinhuber.me#contact).

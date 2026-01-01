@@ -51,23 +51,28 @@ no-header: true
 
 ---
 
+<!-- Yes, this scraping-prevention is silly. Maybe it helps. -->
+<a id="contact"></a>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1.5rem; margin: 1rem 0;">
-    <a href="https://github.com/riesentoaster" title="GitHub">
+    {% include split_link.html id="github-link" title="GitHub" part_1="https://github.com/" part_2="riesentoaster" %}
         <img src="assets/logos/github.svg" alt="GitHub" style="height: 2em; margin: 0 0.5em;">
     </a>
-    <a href="mailto:blog@valentinhuber.me" title="Email">
+    {% include split_link.html id="email-link" title="Email" part_1="mailto:blog@" part_2="valentinhuber.me" %}
         <img src="assets/logos/email.svg" alt="Email" style="height: 2.4em; margin: 0 0.2em;">
     </a>
-    <a href="https://signal.me/#eu/wRqAEh1-x7P2a1JZ2XR4iWpmGbJ_jIEX2zQHEl01cwsVvG8mO3dKSLf7ZebCBZNN" title="Signal">
+    {% include split_link.html id="whatsapp-link" title="WhatsApp" part_1="http://wa.me/+4176505" part_2="3441" %}
+        <img src="assets/logos/whatsapp.svg" alt="WhatsApp" style="height: 2.1em; margin: 0 0.5em;">
+    </a>
+    {% include split_link.html id="signal-link" title="Signal" part_1="https://signal.me/#eu/" part_2="wRqAEh1-x7P2a1JZ2XR4iWpmGbJ_jIEX2zQHEl01cwsVvG8mO3dKSLf7ZebCBZNN" %}
         <img src="assets/logos/signal.svg" alt="Signal" style="height: 2em; margin: 0 0.5em;">
     </a>
-    <a href="https://threema.id/2AJEWTX5" title="Threema">
-        <img src="assets/logos/threema.svg" alt="Threema" style="height: 2.6em; margin: 0;">
+    {% include split_link.html id="threema-link" title="Threema" part_1="https://threema.id/" part_2="2AJEWTX5" %}
+        <img src="assets/logos/threema.svg" alt="Threema" style="height: 2.6em; margin: 0.1em;">
     </a>
-    <a href="https://www.linkedin.com/in/valentinchuber" title="LinkedIn">
+    {% include split_link.html id="linkedin-link" title="LinkedIn" part_1="https://www.linkedin.com/in/" part_2="valentinchuber" %}
         <img src="assets/logos/linkedin.png" alt="LinkedIn" style="height: 2em; margin: 0 0.5em;">
     </a>
-    <a href="https://instagram.com/valentinchuber" title="Instagram">
+    {% include split_link.html id="instagram-link" title="Instagram" part_1="https://instagram.com/" part_2="valentinchuber" %}
         <img src="assets/logos/instagram.svg" alt="Instagram" style="height: 2em; margin: 0 0.5em;">
     </a>
 </div>

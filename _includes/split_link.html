@@ -1,0 +1,7 @@
+<a href="#" id="{{ include.id }}" title="{{ include.title }}" data-part-1="{{ include.part_1 }}"
+    data-part-2="{{ include.part_2 }}">
+    <script>
+        document.getElementById('{{ include.id }}').href =
+            document.getElementById('{{ include.id }}').getAttribute('data-part-1')
+            + document.getElementById('{{ include.id }}').getAttribute('data-part-2');
+    </script>
