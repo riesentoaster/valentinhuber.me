@@ -11,16 +11,21 @@ no-header: true
     text-align: center;
     margin: 0 auto;
   }
+  .hidden-links a {
+    text-decoration: underline;
+    text-decoration-color: rgba(0, 0, 0, 0.15);
+  }
 </style>
 
 ![Portrait of Valentin](./assets/valentin.jpg){:style="height:max(20vw, 30vh); display: block; margin: 2rem auto;"}
 
-<p style="text-align: center; background-color: #d5d9e0; color: black; padding: 1rem; margin: 50px 1rem; border-radius: 10px; font-size: 1.1em">
-  Hi! 👋 I'm Valentin Huber. I like computers, cybersecurity, guitars, music and podcasts. You'll find me writing about these and any other topic I might take an interest in.
+<p class="hidden-links" style="text-align: center; background-color: #d5d9e0; color: black; padding: 1rem; margin: 50px 1rem; border-radius: 10px; font-size: 1.1em">
+  Hi! 👋 I'm Valentin Huber. Professionally, I <a href="#short-cv">make things that break things</a>. Unprofessionally, I do and like all sorts of things: {% include split_link.html id="spotify-link" title="Spotify" part_1="https://open.spotify.com/user/" part_2="valentin.huber" %}music</a>, podcasts, cycling, <a href="https://junge-kirche-klettgau.ch/valentin.huber">volunteering with youth</a> and <a href="https://deep.valentinhuber.me">talking to people</a>.
 </p>
 
 ---
 
+<a id="short-cv"></a>
 ## Short CV
 
 - I am currently pursuing a [PhD at CISPA in Saarbrücken under Prof. Dr. Andreas Zeller](https://cispa.de/en/people/c01vahu), working on fuzzers such as [Fandango](http://fandango-fuzzer.github.io/).
