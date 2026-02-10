@@ -80,3 +80,4 @@ no-header: true
         <img src="assets/logos/instagram.svg" alt="Instagram" style="height: 2em; margin: 0 0.5em;">
     </a>
 </div>
+<a href="https://infosec.exchange/@riesentoaster" style="display:none" rel="me">Mastodon</a>
