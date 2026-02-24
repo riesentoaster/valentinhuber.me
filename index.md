@@ -19,7 +19,7 @@ no-header: true
 ![Portrait of Valentin](./assets/valentin.jpg){:style="height:max(20vw, 30vh); display: block; margin: 2rem auto;"}
 
 <p class="hidden-links" style="text-align: center; background-color: #d5d9e0; color: black; padding: 1rem; margin: 50px 1rem; border-radius: 10px; font-size: 1.1em">
-  Hi! 👋 I'm Valentin Huber. Professionally, I <a href="#short-cv">make things that break things</a>. Unprofessionally, I do and like all sorts of things: {% include split_link.html id="spotify-link" title="Spotify" part_1="https://open.spotify.com/user/" part_2="valentin.huber" %}music</a>, podcasts, cycling, <a href="https://junge-kirche-klettgau.ch/valentin.huber">volunteering with youth</a> and <a href="https://deep.valentinhuber.me">talking to people</a>.
+  Hi! 👋 I'm Valentin Huber. Professionally, I <a href="#short-cv">make things that break things</a>. Unprofessionally, I do and like all sorts of things: <a href="https://mastodon.social/@valentinonmusic" rel="me" title="Mastodon: valentin on music">music</a>, podcasts, cycling, <a href="https://junge-kirche-klettgau.ch/valentin.huber">volunteering with youth</a> and <a href="https://deep.valentinhuber.me">talking to people</a>.
 </p>
 
 ---
@@ -61,17 +61,8 @@ no-header: true
     {% include split_link.html id="github-link" title="GitHub" part_1="https://github.com/" part_2="riesentoaster" %}
         <img src="assets/logos/github.svg" alt="GitHub" style="height: 2em; margin: 0 0.5em;">
     </a>
-    {% include split_link.html id="email-link" title="Email" part_1="mailto:blog@" part_2="valentinhuber.me" %}
-        <img src="assets/logos/email.svg" alt="Email" style="height: 2.4em; margin: 0 0.2em;">
-    </a>
-    {% include split_link.html id="whatsapp-link" title="WhatsApp" part_1="http://wa.me/+4176505" part_2="3441" %}
-        <img src="assets/logos/whatsapp.svg" alt="WhatsApp" style="height: 2.1em; margin: 0 0.5em;">
-    </a>
-    {% include split_link.html id="signal-link" title="Signal" part_1="https://signal.me/#eu/" part_2="wRqAEh1-x7P2a1JZ2XR4iWpmGbJ_jIEX2zQHEl01cwsVvG8mO3dKSLf7ZebCBZNN" %}
-        <img src="assets/logos/signal.svg" alt="Signal" style="height: 2em; margin: 0 0.5em;">
-    </a>
-    {% include split_link.html id="threema-link" title="Threema" part_1="https://threema.id/" part_2="2AJEWTX5" %}
-        <img src="assets/logos/threema.svg" alt="Threema" style="height: 2.6em; margin: 0.1em;">
+    <a href="https://infosec.exchange/@riesentoaster" rel="me" title="Mastodon">
+      <img src="assets/logos/mastodon.svg" alt="Mastodon" style="height: 2em; margin: 0 0.5em">
     </a>
     {% include split_link.html id="linkedin-link" title="LinkedIn" part_1="https://www.linkedin.com/in/" part_2="valentinchuber" %}
         <img src="assets/logos/linkedin.png" alt="LinkedIn" style="height: 2em; margin: 0 0.5em;">
@@ -79,5 +70,10 @@ no-header: true
     {% include split_link.html id="instagram-link" title="Instagram" part_1="https://instagram.com/" part_2="valentinchuber" %}
         <img src="assets/logos/instagram.svg" alt="Instagram" style="height: 2em; margin: 0 0.5em;">
     </a>
+    {% include split_link.html id="signal-link" title="Signal" part_1="https://signal.me/#eu/" part_2="wRqAEh1-x7P2a1JZ2XR4iWpmGbJ_jIEX2zQHEl01cwsVvG8mO3dKSLf7ZebCBZNN" %}
+        <img src="assets/logos/signal.svg" alt="Signal" style="height: 2em; margin: 0 0.5em;">
+    </a>
+    {% include split_link.html id="email-link" title="Email" part_1="mailto:blog@" part_2="valentinhuber.me" %}
+        <img src="assets/logos/email.svg" alt="Email" style="height: 2.4em; margin: 0 0.2em;">
+    </a>
 </div>
-<a href="https://infosec.exchange/@riesentoaster" style="display:none" rel="me">Mastodon</a>
