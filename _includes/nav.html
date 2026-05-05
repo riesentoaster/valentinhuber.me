@@ -4,8 +4,8 @@
   "title" | unshift: home -%}
   <ul>
     {% for link in pages -%}
-    {% assign steps = link.path | split: "/" | join: " " | number_of_words -%}
-    {% if steps == 1 or (steps == 2 and link.path | split: "/" | last contains "index") -%}
+    {% assign steps = link.url | replace: "/", " " | number_of_words -%}
+    {% if steps <= 1 -%}
     <a {% if page.url contains link.url and link.url !="/" or page.url=="/" and link.url=="/" -%}class="active" {% endif
       -%} href="{{ link.url }}">
       <li>{{ link.title -}}</li>
