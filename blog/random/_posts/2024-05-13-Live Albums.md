@@ -36,6 +36,9 @@ This may be the funniest and most entertaining [album](https://en.wikipedia.org/
 ## Florence + the Machine — Symphony of Lungs - BBC Proms at the Royal Albert Hall
 For some reasons, concerts live at the Royal Albert Hall often are just spectacular. I particularly love the arrangements of [this concert](https://www.youtube.com/playlist?list=OLAK5uy_ksqzwzZ1VpB_AvJzUTk1-GqZnOmA3ZPxA) by Jules Buckley and his orchestra. If you look for it, you may also find the video online, which is worth a watch.
 
+## Patent Ochsner — MTV Unplugged Tonbildshow
+One of the most influential Swiss rock bands created some gorgeous arrangements of their songs for an MTV Unplugged concert series and [the respective album](https://www.youtube.com/watch?v=gT8bvSHKj6c&list=PLpfwLUUASIJivAeNDM5_Ichlkpn2_V1AG&index=2) (the actual album contains more songs than were released on YouTube). I love how much room there is for the music to just breathe. And yes, they sing in Swiss German (and a bit of Italian).
+
 ## Honorable Mentions
 These didn't quite make the list for different reasons:
 - Lawrence — The Live Album: It feels too much like a desk recording, the production isn't quite up to where the other albums on this list are and there's too much crowd interaction to flow as an album in my opinion.
@@ -44,6 +47,6 @@ These didn't quite make the list for different reasons:
 - There are a few videos out there from Jamie Cullum Live From Jazz a Vienne. From full-on big band jazz to straight-up pop songs and everything in between, I keep finding myself coming back to them. But I don't think he released them as an actual album.
 
 ## Updates
-- 2024-06-21: Adding Cardinal Black — Live at the Memo and Jamie Cullum — Live From Jazz a Vienne
-- 2025-01-02: Adding Florence + the Machine – Symphony of Lungs - BBC Proms at the Royal Albert Hall
-- 2026-05-05: Adding Mastodon Link
+- 2024-06-21: Adding *Cardinal Black — Live at the Memo* and *Jamie Cullum — Live From Jazz a Vienne*
+- 2025-01-02: Adding *Florence + the Machine — Symphony of Lungs - BBC Proms at the Royal Albert Hall*
+- 2026-05-05: Adding *Patent Ochsner — MTV Unplugged Tonbildshow* and the Mastodon Link
