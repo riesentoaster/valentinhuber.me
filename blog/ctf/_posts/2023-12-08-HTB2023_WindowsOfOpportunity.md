@@ -1,6 +1,8 @@
 ---
 title: HTB 2023 – WindowsOfOpportunity
 tags: rev ghidra decompile
+redirect_from:
+  - /blog/ctf/2023/12/08/HTB2023_WindowsOfOpportunity.html
 ---
 
 ## Challenge

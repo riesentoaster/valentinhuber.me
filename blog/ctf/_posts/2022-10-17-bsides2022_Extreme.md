@@ -1,6 +1,8 @@
 ---
 title: bsides2022 – Extreme
 tags: web xxe injection
+redirect_from:
+  - /blog/ctf/2022/10/17/bsides2022_Extreme.html
 ---
 
 ## Challenge

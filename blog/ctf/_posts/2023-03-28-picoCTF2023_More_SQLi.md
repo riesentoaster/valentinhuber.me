@@ -1,6 +1,8 @@
 ---
 title: picoCTF 2023 – More SQLi
 tags: web sql injection sqlmap
+redirect_from:
+  - /blog/ctf/2023/03/28/picoCTF2023_More_SQLi.html
 ---
 
 ## Challenge

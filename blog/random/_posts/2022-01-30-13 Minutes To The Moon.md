@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /blog/random/2022/01/30/13-Minutes-To-The-Moon.html
 ---
 "13 minutes to the moon" might just be the best podcast ever made. Produced by the BBC, with a soundtrack by Hans Zimmer, it explores two of NASAs Apollo missions to the moon.
 

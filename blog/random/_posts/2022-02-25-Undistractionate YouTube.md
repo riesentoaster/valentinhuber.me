@@ -1,5 +1,7 @@
 ---
 title: Undistractionate YouTube
+redirect_from:
+  - /blog/random/2022/02/25/Undistractionate-YouTube.html
 ---
 One thing I've done in the past is use a combination of hacks to hide certain distractions in YouTube to prevent me from falling down rabbit holes. Requirements (this is personal and might be different for you!):
 

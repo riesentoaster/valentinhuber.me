@@ -1,5 +1,7 @@
 ---
 title: Undistractionate Instagram
+redirect_from:
+  - /blog/random/2023/12/12/Undistractionate-Instagram.html
 ---
 
 Instagram is great at sucking as much time out of you as possible. While I enjoy seeing what people I know get up to, I find myself spending hours looking at random reels that add little value to my life. So I wrote a quick adblock list to block the app parts I don't actually want to see. Specifically, it blocks:

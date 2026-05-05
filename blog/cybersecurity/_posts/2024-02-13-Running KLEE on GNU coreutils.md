@@ -1,6 +1,8 @@
 ---
 tags: fuzzing symbex KLEE coreutils
 title: "Running KLEE on GNU coreutils"
+redirect_from:
+  - /blog/cybersecurity/2024/02/13/Running-KLEE-on-GNU-coreutils.html
 ---
 
 While [I read a lot about symbolic execution in fuzzing for a seminar]({% post_url blog/cybersecurity/2023-12-15-Challenges and Mitigation Strategies in Symbolic Execution Based Fuzzing Through the Lens of Survey Papers %}), I wanted to actually do it. Since KLEE appeared to be one of the most influential fuzzing tool, I decided to attempt to reproduce the findings in their original paper. Additionally, I chose to compare different versions of GNU's coreutils to investigate the quality of software over time. 

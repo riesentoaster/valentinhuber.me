@@ -1,5 +1,7 @@
 ---
 title: Live Albums
+redirect_from:
+  - /blog/random/2024/05/13/Live-Albums.html
 ---
 I'm a big fan of well-done live recordings and over the past years, my mind has accumulated a list of great live albums, from all over the genre spectrum, in no particular order:
 

@@ -1,9 +1,11 @@
 url: "https://valentinhuber.me" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/"
 title: "valentinhuber.me"
+permalink: /:categories/:title.html
 author: Valentin Huber
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 defaults:
   - scope:
       path: "*"

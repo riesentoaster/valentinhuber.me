@@ -1,6 +1,8 @@
 ---
 title: picoCTF 2023 – who is it
 tags: forensics email whois
+redirect_from:
+  - /blog/ctf/2023/03/28/picoCTF2023_who_is_it.html
 ---
 
 ## Challenge

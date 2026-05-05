@@ -2,6 +2,8 @@
 title: "Spass mit der Deutschen Bahn"
 language: "de"
 updated: "2025-09-05"
+redirect_from:
+  - /blog/random/2025/06/03/Spass-mit-der-Deutschen-Bahn.html
 ---
 
 Ich fahre regelmässig mit der Deutschen Bahn zwischen Schaffhausen und Saarbrücken, über Singen, Karlsruhe und Neustadt (Weinstr.). Diese Verbindungen sind so abenteuerlich und häufig verspätet, dass ich hier Statistiken führen und Geschichten aufschreiben möchte.

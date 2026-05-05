@@ -1,6 +1,8 @@
 ---
 title: picoCTF 2023 – PcapPoisoning
 tags: forensics pcap strings grep
+redirect_from:
+  - /blog/ctf/2023/03/28/picoCTF2023_PcapPoisoning.html
 ---
 
 ## Challenge

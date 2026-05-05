@@ -1,6 +1,8 @@
 ---
 title: picoCTF 2023 – rotation
 tags: crypto rot13 cyberchef
+redirect_from:
+  - /blog/ctf/2023/03/28/picoCTF2023_rotation.html
 ---
 
 ## Challenge

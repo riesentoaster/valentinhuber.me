@@ -1,5 +1,7 @@
 ---
 title: Three Step Plan to Security
+redirect_from:
+  - /blog/cybersecurity/2023/10/02/Three-Step-Plan-to-Security.html
 ---
 
 > tl;dr: Properly use a password manager on an up-to-date, backed-up device.

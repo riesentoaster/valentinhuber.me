@@ -1,6 +1,8 @@
 ---
 title: TCP1P 2023 – Lock the Lock
 tags: rev python pyc decompile tree
+redirect_from:
+  - /blog/ctf/2023/10/13/tcp1p2023_Lock_the_Lock.html
 ---
 
 ## Challenge

@@ -1,6 +1,8 @@
 ---
 tags: fuzzing, coreutils, LibAFL
 title: "Differential Fuzzing on coreutils Using LibAFL"
+redirect_from:
+  - /blog/cybersecurity/2024/06/25/Differential-Fuzzing-on-coreutils-Using-LibAFL.html
 ---
 
 After [reading about fuzzing]({% post_url blog/cybersecurity/2023-12-15-Challenges and Mitigation Strategies in Symbolic Execution Based Fuzzing Through the Lens of Survey Papers %}) and [testing a fuzzer]({% post_url blog/cybersecurity/2024-02-13-Running KLEE on GNU coreutils %}), I wanted to delve deeper into the inner workings. In discussions with my advisor, we found that there is a lot of work on some parts of fuzzers, such as advanced scheduling algorithms, but the oracle of what constitutes an illegal state has received comparably little attention.

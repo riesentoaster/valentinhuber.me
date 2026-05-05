@@ -1,5 +1,7 @@
 ---
 title: Text to Speech
+redirect_from:
+  - /blog/random/2025/08/01/Text-to-Speech.html
 ---
 
 After [messing around with automated transcripts]({% post_url blog/random/2025-04-18-Transcriptions %}), I wanted to explore the reverse, creating audio from text.

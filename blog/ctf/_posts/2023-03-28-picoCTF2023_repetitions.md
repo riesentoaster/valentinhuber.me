@@ -1,6 +1,8 @@
 ---
 title: picoCTF 2023 – repetitions
 tags: base64 python
+redirect_from:
+  - /blog/ctf/2023/03/28/picoCTF2023_repetitions.html
 ---
 
 ## Challenge

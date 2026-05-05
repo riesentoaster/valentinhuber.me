@@ -1,6 +1,8 @@
 ---
 title: Drei-Schritte-Plan zur Sicherheit
 hidden: true
+redirect_from:
+  - /blog/cybersecurity/2025/10/12/Drei-Schritt-Plan-zur-Sicherheit.html
 ---
 
 > tl;dr: Benutze einen Passwortmanager auf einem aktuallisierten Gerät mit Backup.

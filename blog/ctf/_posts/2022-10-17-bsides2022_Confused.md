@@ -1,6 +1,8 @@
 ---
 title: bsides2022 – Confused
 tags: forensics steg audio mp3
+redirect_from:
+  - /blog/ctf/2022/10/17/bsides2022_Confused.html
 ---
 
 ## Challenge

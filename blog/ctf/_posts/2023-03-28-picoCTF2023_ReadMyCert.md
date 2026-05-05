@@ -1,6 +1,8 @@
 ---
 title: picoCTF 2023 – ReadMyCert
 tags: crypto cert csr openssl
+redirect_from:
+  - /blog/ctf/2023/03/28/picoCTF2023_ReadMyCert.html
 ---
 
 ## Challenge

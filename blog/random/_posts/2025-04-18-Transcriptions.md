@@ -1,5 +1,7 @@
 ---
 title: Using Transcripts
+redirect_from:
+  - /blog/random/2025/04/18/Transcriptions.html
 ---
 
 I much prefer listening to reading in general. It's just easier for me to follow and learn that way. However, if you are working with dense material, such as nonfiction books, audio is not always the easiest to work with. I find myself seeking back a couple of seconds or manually transcribing a sentence or paragraph for my notes fairly often. This is annoying. However, there is a better way, using modern transcription engines and players. So here is my workflow:
