@@ -3,7 +3,9 @@ title: Live Albums
 redirect_from:
   - /blog/random/2024/05/13/Live-Albums.html
 ---
-I'm a big fan of well-done live recordings and over the past years, my mind has accumulated a list of great live albums, from all over the genre spectrum, in no particular order:
+I'm a big fan of well-done live recordings and over the past years, my mind has accumulated a list of great live albums, from all over the genre spectrum, in no particular order.
+
+What's missing from this list? I would love to discuss some suggestions <a href="https://mastodon.social/@valentinonmusic" rel="me" title="Mastodon">over on Mastodon</a>.
 
 ## John Mayer — Where the Light Is: Live in Los Angeles
 This list has to start with [this album](https://en.wikipedia.org/wiki/Where_the_Light_Is_(John_Mayer_album)). John Mayer playing a mixture of his best songs, and ripping some of his best guitar solos ever, in my opinion. I also love how he plays songs in vastly different settings: Starting out with just him and his acoustic guitar, then with Robbie Mcintosh and David Ryan Harris adding more acoustic (slide) guitars, gorgeous acoustic pop. Oh, and don't miss the amazing cover of Free Fallin'! Then, he plays a set in a classic rock trio: guitar, bass (Pino Palladino), and drums (Steve Jordan). Really shows his roots in blues and plays two Hendrix covers. Finally, he brings out the full band for a total of more than two hours of music.
@@ -44,3 +46,4 @@ These didn't quite make the list for different reasons:
 ## Updates
 - 2024-06-21: Adding Cardinal Black — Live at the Memo and Jamie Cullum — Live From Jazz a Vienne
 - 2025-01-02: Adding Florence + the Machine – Symphony of Lungs - BBC Proms at the Royal Albert Hall
+- 2026-05-05: Adding Mastodon Link
