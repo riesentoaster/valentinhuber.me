@@ -26,4 +26,4 @@ Und noch vieles mehr. Der Chaos Computer Club hat mit [media.ccc.de](https://med
 
 P.S.: Der [Talk](https://media.ccc.de/v/39c3-gegenmacht-best-of-informationsfreiheit) zu [frag-den-staat.de](https://fragdenstaat.de), über den wir geredet hatten. Und der [Freiheitsfonds](https://freiheitsfonds.de), der Schwarzfahrer freikauft.
 
-P.P.S.: Falls du mal an nen c3 kommen willst oder sonst was ist: Du findest meine Kontaktdaten [ganz unten hier](https://valentinhuber.me#contact).
+P.P.S.: Falls du mal an nen c3 kommen willst oder sonst was ist: Du findest meine Kontaktdaten [ganz unten hier](/contact).
