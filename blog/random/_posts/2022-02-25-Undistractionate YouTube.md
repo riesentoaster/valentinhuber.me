@@ -1,5 +1,6 @@
 ---
 title: Undistractionate YouTube
+updated: "2022-02-25"
 redirect_from:
   - /blog/random/2022/02/25/Undistractionate-YouTube.html
 ---

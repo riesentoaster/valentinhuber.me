@@ -1,5 +1,6 @@
 ---
 title: picoCTF 2023 – Safe Opener 2
+updated: "2023-03-28"
 tags: rev java decompile
 redirect_from:
   - /blog/ctf/2023/03/28/picoCTF2023_Safe_Opener_2.html

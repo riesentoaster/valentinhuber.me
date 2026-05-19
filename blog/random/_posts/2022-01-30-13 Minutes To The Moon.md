@@ -1,4 +1,5 @@
 ---
+updated: "2022-01-30"
 redirect_from:
   - /blog/random/2022/01/30/13-Minutes-To-The-Moon.html
 ---

@@ -1,5 +1,6 @@
 ---
 title: Three Step Plan to Security
+updated: "2025-01-19"
 redirect_from:
   - /blog/cybersecurity/2023/10/02/Three-Step-Plan-to-Security.html
 ---

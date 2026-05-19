@@ -1,5 +1,6 @@
 ---
 title: picoCTF 2023 – findme
+updated: "2023-03-28"
 tags: web curl base64 cyberchef
 redirect_from:
   - /blog/ctf/2023/03/28/picoCTF2023_findme.html

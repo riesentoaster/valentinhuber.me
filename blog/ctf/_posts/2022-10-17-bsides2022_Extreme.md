@@ -1,5 +1,6 @@
 ---
 title: bsides2022 – Extreme
+updated: "2022-10-17"
 tags: web xxe injection
 redirect_from:
   - /blog/ctf/2022/10/17/bsides2022_Extreme.html

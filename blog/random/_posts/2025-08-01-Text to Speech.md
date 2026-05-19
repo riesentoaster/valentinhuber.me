@@ -1,5 +1,6 @@
 ---
 title: Text to Speech
+updated: "2025-08-01"
 redirect_from:
   - /blog/random/2025/08/01/Text-to-Speech.html
 ---

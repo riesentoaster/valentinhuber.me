@@ -1,6 +1,7 @@
 ---
 tags: fuzzing, coreutils, LibAFL
 title: "Differential Fuzzing on coreutils Using LibAFL"
+updated: "2024-06-25"
 redirect_from:
   - /blog/cybersecurity/2024/06/25/Differential-Fuzzing-on-coreutils-Using-LibAFL.html
 ---

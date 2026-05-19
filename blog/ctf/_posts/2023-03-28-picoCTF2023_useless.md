@@ -1,5 +1,6 @@
 ---
 title: picoCTF 2023 – useless
+updated: "2023-03-28"
 tags: man grep
 redirect_from:
   - /blog/ctf/2023/03/28/picoCTF2023_useless.html

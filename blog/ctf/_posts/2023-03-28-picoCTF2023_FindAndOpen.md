@@ -1,5 +1,6 @@
 ---
 title: picoCTF 2023 – FindAndOpen
+updated: "2023-03-28"
 tags: forensics pcap base64 zip cyberchef
 redirect_from:
   - /blog/ctf/2023/03/28/picoCTF2023_FindAndOpen.html

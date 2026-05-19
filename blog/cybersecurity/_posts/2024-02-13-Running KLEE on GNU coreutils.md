@@ -1,6 +1,7 @@
 ---
 tags: fuzzing symbex KLEE coreutils
 title: "Running KLEE on GNU coreutils"
+updated: "2024-02-13"
 redirect_from:
   - /blog/cybersecurity/2024/02/13/Running-KLEE-on-GNU-coreutils.html
 ---

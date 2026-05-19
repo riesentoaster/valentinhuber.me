@@ -1,5 +1,6 @@
 ---
 title: Using Transcripts
+updated: "2025-04-18"
 redirect_from:
   - /blog/random/2025/04/18/Transcriptions.html
 ---

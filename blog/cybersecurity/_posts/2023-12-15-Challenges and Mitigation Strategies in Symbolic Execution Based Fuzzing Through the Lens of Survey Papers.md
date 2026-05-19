@@ -1,6 +1,7 @@
 ---
 tags: fuzzing symbex review
 title: "Challenges and Mitigation Strategies in Symbolic Execution Based Fuzzing Through the Lens of Survey Papers"
+updated: "2023-12-15"
 redirect_from:
   - /blog/cybersecurity/2023/12/15/Challenges-and-Mitigation-Strategies-in-Symbolic-Execution-Based-Fuzzing-Through-the-Lens-of-Survey-Papers.html
 ---

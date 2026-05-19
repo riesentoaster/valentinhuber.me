@@ -1,5 +1,6 @@
 ---
 title: Undistractionate Instagram
+updated: "2023-12-12"
 redirect_from:
   - /blog/random/2023/12/12/Undistractionate-Instagram.html
 ---
