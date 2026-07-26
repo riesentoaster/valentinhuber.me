@@ -1,0 +1,104 @@
+---
+title: "Humidity"
+hidden: true
+---
+
+<p>
+  Enter one temperature and its relative humidity. Assuming the same air (no
+  water added or removed), this shows how the relative humidity changes as you
+  heat or cool it.
+</p>
+
+<table style="border-collapse:collapse; border:none">
+  <tr>
+    <td style="border:none"><label for="temp">Temperature (°C)</label></td>
+    <td style="border:none"><input id="temp" type="number" value="20" style="text-align:right;"></td>
+  </tr>
+  <tr>
+    <td style="border:none"><label for="rh">Humidity (%)</label></td>
+    <td style="border:none"><input id="rh" type="number" value="50" style="text-align:right;"></td>
+  </tr>
+</table>
+
+<div style="container-type:inline-size; max-width:100%">
+  <div style="position:relative; min-height:max(40vh, 40cqw)">
+    <canvas id="chart"></canvas>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+<script>
+  const pSat = (t) => 6.112 * Math.exp((17.62 * t) / (243.12 + t)); // Magnus formula
+  const T_MIN = -10;
+  const T_MAX = 35;
+  const LINE_COLOR = "#e08a2b";
+  const OFFSET_COLOR = "#f0c595";
+  const GRID_COLOR = "#909090";
+  const LABEL_COLOR = "#e0e0e0";
+  const temps = Array.from({ length: T_MAX - T_MIN + 1 }, (_, i) => T_MIN + i);
+
+  function vapourPressure(offset = 0) {
+    const t0 = parseFloat(temp.value), rh0 = parseFloat(rh.value) + offset;
+    if (isNaN(t0) || isNaN(rh0)) return null;
+    return (rh0 / 100) * pSat(t0); // actual vapour pressure, stays constant
+  }
+
+  function curve(offset = 0) {
+    const e = vapourPressure(offset);
+    if (e === null || e < 0) return [];
+    return temps.map((t) => ({ x: t, y: Math.min(100, (e / pSat(t)) * 100) }));
+  }
+
+  // ±10% steps spanning enough vapour pressures to fill the visible plot:
+  // down until the curve hits 0% and up until it stays at 100% across the range.
+  function offsets() {
+    const t0 = parseFloat(temp.value), rh0 = parseFloat(rh.value);
+    if (isNaN(t0) || isNaN(rh0)) return [0];
+    const step = 10;
+    const rhTop = (100 * pSat(T_MAX)) / pSat(t0); // base-temp RH whose curve sits at 100% everywhere shown
+    const list = [0];
+    for (let o = -step; rh0 + o > 0; o -= step) list.push(o);
+    for (let o = step; rh0 + o - step < rhTop; o += step) list.push(o);
+    return list;
+  }
+
+  function datasets() {
+    return offsets().map((o) => ({
+      data: curve(o),
+      borderColor: o === 0 ? LINE_COLOR : OFFSET_COLOR,
+      borderWidth: o === 0 ? 3 : 0.5,
+      pointRadius: 0,
+      tension: 0.3,
+      order: o === 0 ? 0 : 1, // draw the base line on top
+    }));
+  }
+
+  // Temperature where relative humidity first reaches 100% (dew point).
+  function xMin() {
+    const e = vapourPressure();
+    if (e === null || e <= 0) return T_MIN;
+    const g = Math.log(e / 6.112);
+    const dewPoint = (243.12 * g) / (17.62 - g);
+    return Math.max(T_MIN, Math.min(T_MAX, dewPoint));
+  }
+
+  const chart = new Chart(document.getElementById("chart"), {
+    type: "line",
+    data: { datasets: datasets() },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: { legend: { display: false } },
+      scales: {
+        x: { type: "linear", min: xMin(), max: T_MAX, grid: { color: GRID_COLOR }, ticks: { color: LABEL_COLOR, stepSize: 2, autoSkip: false, maxRotation: 0, callback: (v, i) => (i === 0 || v % 5 === 0 ? Math.round(v) + "°C" : "") }, title: { display: false, color: LABEL_COLOR, text: "Temperature (°C)" } },
+        y: { min: 0, max: 100, grid: { color: GRID_COLOR }, ticks: { color: LABEL_COLOR, callback: (v) => Math.round(v) + "%" }, title: { display: false, color: LABEL_COLOR, text: "Relative humidity (%)" } },
+      },
+    },
+  });
+
+  temp.oninput = rh.oninput = () => {
+    chart.data.datasets = datasets();
+    chart.options.scales.x.min = xMin();
+    chart.update();
+  };
+</script>
