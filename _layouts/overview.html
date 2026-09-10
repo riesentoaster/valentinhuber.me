@@ -43,6 +43,9 @@ layout: default
 {% endfor -%}
 </ul>
 </div>
+{% endif -%}
+{% assign overview_content = content | strip -%}
+{% if children.size > 0 or overview_content != '' -%}
 <hr>
 {% endif -%}
 
