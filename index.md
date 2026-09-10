@@ -29,9 +29,9 @@ no-header: true
 
 - I am currently pursuing a [PhD at CISPA in Saarbrücken under Prof. Dr. Andreas Zeller](https://cispa.de/en/people/c01vahu), working on fuzzers such as [Fandango](http://fandango-fuzzer.github.io/).
 - I completed my master's degree in computer science at [ZHAW](https://zhaw.ch), focusing on cybersecurity.
-  - I have been accepted as a CYD Fellow and wrote my master's thesis at [Cyber-Defense Campus](https://cydcampus.ch). It is titled [FTZ: A State-Inferring Fuzzer for the TCP/IP Stack of Zephyr]({% post_url blog/cybersecurity/2025-04-30-FTZ %}).
+  - I have been accepted as a CYD Fellow and wrote my master's thesis at [Cyber-Defense Campus](https://cydcampus.ch). It is titled [FTZ: A State-Inferring Fuzzer for the TCP/IP Stack of Zephyr]({% post_url blog/en/cybersecurity/2025-04-30-FTZ %}).
 - I received my bachelor's degree in computer science summa cum laude at [ZHAW](https://zhaw.ch).
-  - I wrote my bachelor's thesis about [Ghidrion]({% post_url blog/cybersecurity/2023-07-07-Ghidrion %}), a symbolic execution plugin for Ghidra, in collaboration with ZHAW and [Cyber-Defense Campus](https://cydcampus.ch).
+  - I wrote my bachelor's thesis about [Ghidrion]({% post_url blog/en/cybersecurity/2023-07-07-Ghidrion %}), a symbolic execution plugin for Ghidra, in collaboration with ZHAW and [Cyber-Defense Campus](https://cydcampus.ch).
   - I got to study abroad for a semester at [North Carolina State University](https://ncsu.edu) in Raleigh, NC, USA.
 - I did an internship at [Syntegon](https://syntegon.com).
 - I attended [Youth2Engineer](https://www.zhaw.ch/en/engineering/study/pre-college/) at ZHAW.
@@ -40,11 +40,11 @@ no-header: true
 ---
 
 ## Academic Projects
-- [*FTZ: A State-Inferring Fuzzer for the TCP/IP Stack of Zephyr*]({% post_url blog/cybersecurity/2025-04-30-FTZ %}), Master's Thesis, 22.02.2025
-- [*Differential Fuzzing on coreutils Using LibAFL*]({% post_url blog/cybersecurity/2024-06-25-Differential Fuzzing on coreutils Using LibAFL %}), Semester Project, 25.06.2024
-- [*Running KLEE on GNU coreutils*]({% post_url blog/cybersecurity/2024-02-13-Running KLEE on GNU coreutils %}), Semester Project, 13.02.2024
-- [*Challenges and Mitigation Strategies in Symbolic Execution Based Fuzzing Through the Lens of Survey Papers*]({% post_url blog/cybersecurity/2023-12-15-Challenges and Mitigation Strategies in Symbolic Execution Based Fuzzing Through the Lens of Survey Papers %}), Security Seminar, 15.12.2023
-- [*Ghidrion: A Ghidra Plugin to Support Symbolic Execution*]({% post_url blog/cybersecurity/2023-07-07-Ghidrion %}), Bachelor Thesis in cooperation with [Cyber Defence Campus](https://cydcampus.ch), 09.06.2023
+- [*FTZ: A State-Inferring Fuzzer for the TCP/IP Stack of Zephyr*]({% post_url blog/en/cybersecurity/2025-04-30-FTZ %}), Master's Thesis, 22.02.2025
+- [*Differential Fuzzing on coreutils Using LibAFL*]({% post_url blog/en/cybersecurity/2024-06-25-Differential Fuzzing on coreutils Using LibAFL %}), Semester Project, 25.06.2024
+- [*Running KLEE on GNU coreutils*]({% post_url blog/en/cybersecurity/2024-02-13-Running KLEE on GNU coreutils %}), Semester Project, 13.02.2024
+- [*Challenges and Mitigation Strategies in Symbolic Execution Based Fuzzing Through the Lens of Survey Papers*]({% post_url blog/en/cybersecurity/2023-12-15-Challenges and Mitigation Strategies in Symbolic Execution Based Fuzzing Through the Lens of Survey Papers %}), Security Seminar, 15.12.2023
+- [*Ghidrion: A Ghidra Plugin to Support Symbolic Execution*]({% post_url blog/en/cybersecurity/2023-07-07-Ghidrion %}), Bachelor Thesis in cooperation with [Cyber Defence Campus](https://cydcampus.ch), 09.06.2023
 
 ---
 

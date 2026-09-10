@@ -6,6 +6,7 @@ author: Valentin Huber
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+future: true
 defaults:
   - scope:
       path: "*"
@@ -13,10 +14,14 @@ defaults:
       layout: "default"
       language: "en"
   - scope:
-      path: "blog/*"
+      path: "blog"
       type: posts
     values:
       layout: "post"
       author:
         name: "Valentin Huber"
         picture: "/assets/valentin.jpeg"
+  - scope:
+      path: "blog/de"
+    values:
+      language: "de"

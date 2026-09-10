@@ -72,8 +72,12 @@ a.exc {
   text-decoration: none;
 }
 
-a.exc p:last-child {
+a.exc .read-more {
   text-decoration: underline;
+}
+
+.overview-nav a {
+  text-decoration: none;
 }
 
 img {

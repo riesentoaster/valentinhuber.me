@@ -1,6 +1,6 @@
 ---
 title: "Blog — CTF"
 layout: forward
-link: "/blog/ctf"
+link: "/blog/en/ctf"
 hidden: true
 ---

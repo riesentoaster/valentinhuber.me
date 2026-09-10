@@ -3,34 +3,54 @@ layout: default
 ---
 {{ content -}}
 
-{% assign index_files = '' | split: ',' %}
-{% for file in site.pages %}
-  {% if file.path contains 'index.md' %}
-    {% assign path_parts = file.path | split: '/' | pop | join: '/' %}
-    {% assign page_dir_parts = page.dir | remove_first: '/' %}
-    {% if path_parts contains page_dir_parts and path_parts != page_dir_parts %}
-      {% assign index_files = index_files | push: file %}
-    {% endif %}
-  {% endif %}
-{% endfor %}
+{% assign root = page.dir -%}
+{% assign root_depth = root | split: '/' | where_exp: 'i', "i != ''" | size -%}
+{% assign l1_depth = root_depth | plus: 1 -%}
 
-{% assign index_files = index_files | sort: 'title' %}
+{% assign children = '' | split: '' -%}
+{% for file in site.pages -%}
+  {% assign depth = file.dir | split: '/' | where_exp: 'i', "i != ''" | size -%}
+  {% if file.name == 'index.md' and file.hidden != true and file.dir != root and depth == l1_depth and file.dir contains root -%}
+    {% assign children = children | push: file -%}
+  {% endif -%}
+{% endfor -%}
+{% assign children = children | sort: 'title' -%}
 
+{% if children.size > 0 -%}
+<div class="overview-nav">
 <ul>
-  {% for file in index_files %}
-    <li>
-      <a href="{{ file.url | relative_url }}">{{ file.title | default: file.path | split: '/' | first }}</a>
-    </li>
-  {%- endfor %}
+{% for a in children -%}
+  {% assign a_depth = a.dir | split: '/' | where_exp: 'i', "i != ''" | size -%}
+  {% assign l2_depth = a_depth | plus: 1 -%}
+  {% assign grandchildren = '' | split: '' -%}
+  {% for file in site.pages -%}
+    {% assign depth = file.dir | split: '/' | where_exp: 'i', "i != ''" | size -%}
+    {% if file.name == 'index.md' and file.hidden != true and file.dir != a.dir and depth == l2_depth and file.dir contains a.dir -%}
+      {% assign grandchildren = grandchildren | push: file -%}
+    {% endif -%}
+  {% endfor -%}
+  {% assign grandchildren = grandchildren | sort: 'title' -%}
+  <li>
+    <a href="{{ a.url | relative_url }}">{{ a.title }}</a>
+    {% if grandchildren.size > 0 -%}
+    <ul>
+      {% for b in grandchildren -%}
+      <li><a href="{{ b.url | relative_url }}">{{ b.title }}</a></li>
+      {% endfor -%}
+    </ul>
+    {% endif -%}
+  </li>
+{% endfor -%}
 </ul>
-
+</div>
 <hr>
+{% endif -%}
 
-{% assign pageCategories = page.dir | split: '/' | where_exp: 'i', "i != ''" | sort | join: '/' -%}
+{% assign page_categories = root | split: '/' | where_exp: 'i', "i != ''" | join: '/' -%}
 {% assign pool = '' | split: '' -%}
 {% for post in site.posts -%}
-  {% assign postCategories = post.categories | sort | join: '/' -%}
-  {% if post.hidden != true and postCategories contains pageCategories -%}
+  {% assign post_categories = post.categories | join: '/' -%}
+  {% if post.hidden != true and post_categories contains page_categories -%}
     {% assign pool = pool | push: post -%}
   {% endif -%}
 {% endfor -%}

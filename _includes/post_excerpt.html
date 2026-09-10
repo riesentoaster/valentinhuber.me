@@ -1,17 +1,16 @@
-{% assign tagsCategories = post.tags | concat: post.categories | sort -%}
+{% assign p = include.post | default: post -%}
+{% if p.language == 'de' -%}
+{% assign read_more_label = 'Weiterlesen…' -%}
+{% else -%}
+{% assign read_more_label = 'Read more…' -%}
+{% endif -%}
 
-<a href="{{ post.url }}" class="exc">
-    <article>
-        <h3>{{ post.title }}</h3>
-        <p><i>{{ post.date | date_to_long_string }}
-                {%- assign updated_on = post.updated | date: '%Y-%m-%d' -%}
-                {%- assign published_on = post.date | date: '%Y-%m-%d' -%}
-                {%- if updated_on != published_on %} – updated on {{ post.updated | date_to_long_string }}{% endif -%}
-                {% unless tagsCategories == empty %} – in {{ tagsCategories | array_to_sentence_string }}{% endunless
-                -%}
-            </i></p>
-        {{ post.excerpt -}}
-        <p>Read more…</p>
-    </article>
+<a href="{{ p.url }}" class="exc">
+  <article>
+    <h3>{{ p.title }}</h3>
+    {% include post_meta.html post=p -%}
+    {{ p.excerpt | markdownify | replace: '<a ', ' <span ' | replace: ' </a>', '</span>' -}}
+      <p class="read-more">{{ read_more_label }}</p>
+  </article>
 </a>
 <hr>

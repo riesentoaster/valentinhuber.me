@@ -1,0 +1,19 @@
+{% assign p = include.post | default: page -%}
+{% if p.language == 'de' -%}
+  {% assign updated_label = 'aktualisiert am' -%}
+  {% assign language_label = 'Deutsch' -%}
+  {% assign and_label = 'und' -%}
+{% else -%}
+  {% assign updated_label = 'updated on' -%}
+  {% assign language_label = 'English' -%}
+  {% assign and_label = 'and' -%}
+{% endif -%}
+{% assign cats = p.categories | where_exp: 'c', "c != 'blog'" | where_exp: 'c', "c != 'en'" | where_exp: 'c', "c != 'de'" -%}
+{% assign tagsCategories = p.tags | concat: cats | uniq | sort -%}
+<p><i>{{ p.date | date_to_long_string -}}
+  {%- assign updated_on = p.updated | date: '%Y-%m-%d' -%}
+  {%- assign published_on = p.date | date: '%Y-%m-%d' -%}
+  {%- if updated_on != published_on %} – {{ updated_label }} {{ p.updated | date_to_long_string }}{% endif -%}
+  {%- if language_label %} – {{ language_label }}{% endif -%}
+  {%- unless tagsCategories == empty %} – in {{ tagsCategories | array_to_sentence_string: and_label }}{% endunless -%}
+</i></p>
