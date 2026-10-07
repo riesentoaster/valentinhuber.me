@@ -7,3 +7,8 @@ title: Lieder mit Tiefe
 ---
 
 Ich bin Christ. Und frustriert damit, dass vieles, was man in christlichen Kreisen über den Glauben hört sich fast ausschliesslich mit den Sonnenseiten von Leben und Glauben beschäftigt, besonders in der Musik. Es fehlt an Liedern zu Zweifel, zu Klage, zum Ringen mit Fragen und Distanz. Hier deshalb eine Sammlung von solchen Liedern über die ich gestolpert bin.
+
+Weitere Lieder, über die es noch kein Blogpost gibt:
+- [Sean Curran – Bigger Than I Thought](https://open.spotify.com/track/6iWpeeVqhPSJp9KJmzvqlV)
+- [Allison Eide – digital Jesus](https://open.spotify.com/track/4sPZLBTHc5if7yKlcZJrZL)
+- [Cameron Whitcomb – Rocking Chair](https://open.spotify.com/track/5T3nWbFWy4NUWdyDqGLGuY)
