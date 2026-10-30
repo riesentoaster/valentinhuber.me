@@ -12,3 +12,5 @@ Weitere Lieder, über die es noch kein Blogpost gibt:
 - [Sean Curran – Bigger Than I Thought](https://open.spotify.com/track/6iWpeeVqhPSJp9KJmzvqlV)
 - [Allison Eide – digital Jesus](https://open.spotify.com/track/4sPZLBTHc5if7yKlcZJrZL)
 - [Cameron Whitcomb – Rocking Chair](https://open.spotify.com/track/5T3nWbFWy4NUWdyDqGLGuY)
+
+Kennst du weitere Beispiele? [Melde dich gerne](/contact)!
