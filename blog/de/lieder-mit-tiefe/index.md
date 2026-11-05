@@ -12,5 +12,7 @@ Weitere Lieder, über die es noch kein Blogpost gibt:
 - [Sean Curran – Bigger Than I Thought](https://open.spotify.com/track/6iWpeeVqhPSJp9KJmzvqlV)
 - [Allison Eide – digital Jesus](https://open.spotify.com/track/4sPZLBTHc5if7yKlcZJrZL)
 - [Cameron Whitcomb – Rocking Chair](https://open.spotify.com/track/5T3nWbFWy4NUWdyDqGLGuY)
+- [Makenna Christopherson and Hallie Ford – Joy In the Mourning](https://www.youtube.com/watch?v=-ckG2xEFqHw)
+- [Samantha Ebert – Overthinking](https://www.youtube.com/watch?v=siSAHaFK5oA)
 
 Kennst du weitere Beispiele? [Melde dich gerne](/contact)!
